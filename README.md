@@ -8,8 +8,8 @@ O site tem uma comunicação com o backend que faz o scrapping de dados diretame
 
 🛠 Tecnologias Utilizadas 🛠 
 
-React.js
+<li>React.js</li> 
 <br>
-Styled Components
+<li>Styled Components</li> 
 <br>
-Vite 
+<li>Vite</li> 
