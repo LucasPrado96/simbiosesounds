@@ -1,8 +1,13 @@
-# React + Vite
+SIMBIOSE SOUNDS 🎵
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simbiose Sounds é uma gravadora brasileira de música eletrônica, focada no estilo PsyTrance, onde tive o prazer de desenvolver o seu site oficial.
 
-Currently, two official plugins are available:
+O site traz todas as características e informações da gravadora, desde lançamentos, artistas e história do coletivo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O site tem uma comunicação com o backend que faz o scrapping de dados diretamente da página do BandCamp da gravadora, trazendo todos os lançamentos musicais, e também a integração de Players do SoundCloud para que possa ouvir as músicas no próprio site.
+
+🛠 Tecnologias Utilizadas 🛠 
+
+React.js
+Styled Components
+Vite 
