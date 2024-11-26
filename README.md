@@ -4,7 +4,7 @@ Simbiose Sounds é uma gravadora brasileira de música eletrônica, focada no es
 
 O site traz todas as características e informações da gravadora, desde lançamentos, artistas e história do coletivo.
 
-O site tem uma comunicação com o backend que faz o scrapping de dados diretamente da página do BandCamp da gravadora, trazendo todos os lançamentos musicais, e também a integração de Players do SoundCloud para que possa ouvir as músicas no próprio site.
+O site tem uma comunicação com o backend que faz o scraping de dados diretamente da página do BandCamp da gravadora, trazendo todos os lançamentos musicais, e também a integração de Players do SoundCloud para que possa ouvir as músicas no próprio site.
 
 🛠 Tecnologias Utilizadas 🛠 
 
