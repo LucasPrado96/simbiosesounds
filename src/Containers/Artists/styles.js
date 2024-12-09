@@ -38,6 +38,11 @@ transition: 0.4s ease;
 width: 50%;
 
 
+ 
+@media (max-width: 375px){
+      height: 610px;
+    }
+
 
 
 .iconsLink{
@@ -46,15 +51,20 @@ width: 50%;
     margin-top: 10px;
     display: flex;
     gap: 20px;
+
+
+    @media (max-width: 375px){
+      
+    }
 }
 
 .artistPic{
 
-    width: 340px;
-    
+    width: 280px;
+  
     border-radius: 10px;
-    max-width: 350px;
-    max-height: 350px;
+    max-width: 300px;
+    max-height: 300px;
     object-fit: cover;
     
 
@@ -67,11 +77,12 @@ width: 50%;
     @media (max-width: 375px){
         width: 100px;
         margin-top: 20px;
+        height: 200px;
     }
 
 
     @media (max-width: 414px){
-        width: 180px;
+        width: 170px;
     }
 
 
@@ -100,7 +111,7 @@ text-decoration: none;
 
 
     @media (max-width: 375px){
-       width: 30px;
+       width: 20px;
     }
 
 
@@ -191,6 +202,12 @@ cursor: pointer;
 margin-top: 10px;
 flex-direction: column;
 
+@media (max-width: 430px){
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
@@ -198,7 +215,8 @@ flex-direction: column;
 span{
     font-size: 12px;
     color: white;
-    margin-top: 8px;
+    margin-top: 3px;
+    margin-left: 5px;
 }
 
 .imgWrapper{
@@ -207,7 +225,10 @@ span{
     height: 200px;
     overflow: hidden;
     border-radius: 5px;
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
 
 
     @media (max-width: 430px){
@@ -262,12 +283,11 @@ opacity: 0;
 
 
 export const Img = Styled.img`
-max-width: 200px;
-max-height: 200px;
-height: 200px;
-width: 200px;
+ 
 object-fit: cover;
 border-radius: 5px;
+width: 100%;
+height: 100%;
 
 
 `

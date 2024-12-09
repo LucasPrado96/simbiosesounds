@@ -81,13 +81,27 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Corvus",
         photo: Corvus,
-        description: `release`
+        description: `"Corvus" é um projeto musical criado por Eduardo Lira, que mergulha profundamente em sensações inéditas, combinando atmosferas inquietantes, melodias sombrias e sínteses únicas inspiradas pelo universo. Eduardo descobriu o psytrance em 2010 e rapidamente se apaixonou pelo High BPM, explorando as nuances desse estilo.
+
+            Em 2019, ele deu início ao projeto "Oryezurk", que serviu como base para suas experimentações sonoras. Já em 2023, nasceu o projeto "Corvus", com o objetivo de transformar sua insanidade criativa em música, entregando experiências sonoras intensas e memoráveis.
+
+                Surfando nas ondas sonoras e respirando frequências insanas, Corvus explora os limites do som, transformando ideias em experiências que conectam o universo ao caos criativo.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/corvuspsy`,
+        link2: `https://www.instagram.com/corvuspsy/`,
+        
     },
 
     {
         name: "Dalikaos",
         photo: Dalikaos,
-        description: `release`
+        description: `Minha missão é levar a pista de dança a uma jornada repleta de caos e energia, fazendo uso de poderosos baixos, sons hipnotizantes e atmosferas sombrias.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/dalikaos`,
+        link2: `https://www.instagram.com/rafael_dalikaos/`,
     },
 
     {
@@ -111,7 +125,11 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Grozzny",
         photo: Grozzny,
-        description: `release`
+        description: `Ivan Rizzo toca guitarra desde os 12 anos de idade, e sonhava em viver de metal e rock. Hoje, mais de 10 anos depois, acredita que apenas 6 cordas não são o suficiente pra dar vazão à criatividade. Rápidas melodias, debates de sintetizadores e paisagens surreais preenchem a jornada altamente tecnológica desenvolvida desde 2014, quando surgiu Grozzny.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/grozzny`,
+        link2: `https://www.instagram.com/ivgrozzny/`,
     },
 
     {
@@ -157,19 +175,41 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "ka'a porã ",
         photo: Kaapora,
-        description: `release`
+        description: `Natural de São Paulo, Brenda Taka, grande entusiasta da arte em suas mais diversas formas de expressão, apaixonada por sonoridades de todos os tipos, encontrou na música eletrônica algo que tocou e mudou sua vida profundamente: a infinidade de possibilidades. Decidiu, assim, dedicar sua jornada de vida para a música e, através da potencialidade dela, eternizar seu impacto em muitos corações. 
+        Assim nasceu o projeto com o nome ka’a porã - de origem tupi - que significa “mata bonita” e, para a canalizadora do projeto, simboliza não apenas a forte presença de elementos sonoros dos povos originários em seus sets, mas também exalta a importância de retornarmos às raízes brasileiras com profunda reverência e a devida enaltação.
+        Eterna aprendiz, não se limita a tocar apenas um ou outro som, crê que tudo pode ser transformado e ressignificado, assim como a própria existência humana.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/kaaporamusic`,
+        link2: `https://www.instagram.com/kaaporamusic`,
+
+
     },
 
     {
         name: "Kedai",
         photo: Kedai,
-        description: `release`
+        description: ` Caio Ikeda aka KEDAI é um artista multi-instrumentista que em suas músicas combina elementos orgânicos e eletrônicos, resultando em uma sonoridade única.
+        Uma das características mais marcantes de suas musicas é a atmosfera densa que ele consegue construir. Utilizando uma combinação de efeitos sonoros e sons atmosféricos para criar paisagens sonoras imersivas e hipnóticas.
+            Ao mergulhar em suas composições, é impossível não se deixar levar por seus ritmos contínuos e hipnóticos. Criando sequências rítmicas que te envolvem em uma jornada psicodélica, onde cada batida e cada ritmo te transportam para um estado de transe musical.`,
+
+            icon: sound,
+            icon2: insta,
+            link: `https://soundcloud.com/kedailive`,
+            link2: `https://www.instagram.com/kedai_live/`,
+
     },
 
     {
         name: "Krypta",
         photo: Krypta,
-        description: `release`
+        description: `Krypta busca criar sonoridades intensas e profundas, com basslines complexas e ambientações lisérgicas que envolvem o ouvinte. O projeto se dedica a explorar novas possibilidades dentro do psytrance, buscando sempre inovação e diversidade sonora. Com faixas que equilibram técnica e criatividade, a proposta é proporcionar uma experiência única e imersiva, onde a música se torna uma viagem sonora que se conecta de forma genuína com quem a escuta.`,
+
+            icon: sound,
+            icon2: insta,
+            link: `https://soundcloud.com/kryptal`,
+            link2: `https://www.instagram.com/kryptahitech/`,
     },
 
     {
@@ -181,7 +221,16 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Mad Noise",
         photo: MadNoise,
-        description: `release`
+        description: `Eduardo Vilela é a mente alquimista por trás de Mad Noise.
+Sua versatilidade musical como djset o levou a palcos prestigiosos, incluindo o festival Universo Paralello na Bahia, em 2014 e 2016, onde sua habilidade de criar atmosferas sonoras hipnóticas conquistou a cena musical.
+Em 2020, ele se formou na primeira turma do Coletivo Darklab, liderado pelo renomado produtor Thiago Pasetchny, mundialmente conhecido pelo projeto Demonizz. Isso marcou um novo patamar em sua carreira, aprimorando suas habilidades e visão musical e artística.
+Atualmente, Mad Noise é integrante do Coletivo Darklab e membro do elenco da gravadora brasileira Simbiose Sounds,e com lançamentos marcados ainda para esse ano.
+`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/maadnoise`,
+        link2: `https://www.instagram.com/madnoise.music`,
+        
     },
 
     {
@@ -269,13 +318,27 @@ Cogumelos.`,
     {
         name: "Satanakia",
         photo: Satanakia,
-        description: `release`
+        description: `Alexandre de Mattos (aka Bizarro) nasceu em São Paulo e está em contato com a música eletrônica desde o início da década de 90. Frequentava festas da cena clubber da época e mais tarde passou a também frequentar alguns festivais, o que o fez desejar se tornar um produtor. 
+Com sua base musical oriunda do violão e da guitarra - instrumentos que tocava na adolescência - e das festas e festivais que havia frequentado, começou suas primeiras experiências em produção de música eletrônica em 2002, também tornando-se DJ.
+Mais tarde, em 2012, foi ao seu primeiro festival de psytrance e decidiu por também fazer parte desse universo.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/satanakiamusic`,
+        link2: `https://www.instagram.com/ale.bizarro.satanakia/`,
     },
 
     {
         name: "Status Quantum",
         photo: StatusQuantum,
-        description: `release`
+        description: `Status Quantum é a transcrição psicodélica dos pensamentos de Gabriel Medeiros. Vivenciando por muitos anos a cultura musical da cidade de São Paulo através de eventos de dub e hip-hop, inicia sua jornada na produção autoral após se mudar para o interior do estado. 
+        Com seu primeiro lançamento em 2020, busca traduzir suas diversas influências na linguagem da música de pista, para que os ouvintes alcancem experiências revigorantes e únicas.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/statusquantum`,
+        link2: `https://www.instagram.com/status.quantum/`,
+
     },
 
     {
@@ -287,13 +350,35 @@ Cogumelos.`,
     {
         name: "Tarumã",
         photo: Taruma,
-        description: `release`
+        description: `Thaynara Moreira é o nome por trás do projeto Tarumã. DJ e produtora musical de São Paulo que tem se destacado no cenário do Hibpm. Começou como Dj set há 6 anos e há 3 anos, mergulhou na produção musical e agora possui seu próprio live. 
+            Thaynara é uma das poucas mulheres no mundo que produzem Hitech, e o BPM de suas músicas varia entre 170 e 190, entregando ao público uma experiência sonora dançante e energética. 
+
+            Com seu trabalho, Thaynara não busca apenas conquistar as pistas de dança, mas também inspirar outras mulheres a ocuparem seu espaço na música eletrônica e a explorarem sua criatividade nesse universo.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/tarumaproject`,
+        link2: `https://www.instagram.com/tarumaproject/`,
+
     },
 
     {
         name: "Torstol",
         photo: Torstol,
-        description: `release`
+        description: `Torstol é um projeto de Forest Psy, criado por João Paulo Rodrigues, nascido no interior de
+            Minas Gerais, Brasil. Sua proposta é construir uma atmosfera introspectiva, que permita o
+            imaginário caminhar livre por suas fantasias. As músicas variam entre 140 e 160 BPM's,
+            com histórias que se criam à luz de profundos sons de uma floresta encantada, dando vida
+            à ambiências místicas por meio de texturas pantanosas, leads, timbres orgânicos, uma
+            bateria recheada de tambores e fortes linhas de baixo que fazem dançar.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/esktorstol`,
+        link2: `https://www.instagram.com/esktorstol/`,
+
+
+
     },
 
     {

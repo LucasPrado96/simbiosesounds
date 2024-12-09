@@ -5,13 +5,6 @@ import { Artists } from './arrayArtists'
 import {FooterSite} from '../../Components/Footer'
 import { useState } from 'react'
 
-ModalStyled.setAppElement("#root");
-
-
-
-
-
-
 
 
 import { HeaderSite } from '../../Components/Header';
@@ -24,6 +17,7 @@ export function ArtistsCast() {
 
 
      const openModal = (Artists) => {
+         
           setSelectedArtist(Artists)
           setIsModalOpen(true)
      };
@@ -31,9 +25,9 @@ export function ArtistsCast() {
      const closeModal = () => {
           setIsModalOpen(false)
           setSelectedArtist(null)
-     }
+     };
 
-
+   
      return (
 
           <Container>
@@ -60,13 +54,16 @@ export function ArtistsCast() {
 
                     ))}
                  
-                    {selectedArtist &&  (
+                    {isModalOpen  &&  (
 
                          <ModalStyled
                          isOpen={isModalOpen}
                          onRequestClose={closeModal}
-                         contentLabel={` ${selectedArtist.name}`}
+                         contentLabel={` ${selectedArtist ? selectedArtist.name : "carregando"}`}
+                         shouldCloseOnOverlayClick={true}
                          closeTimeoutMS={400}
+                       
+                       
                        
                         
                          
@@ -74,12 +71,12 @@ export function ArtistsCast() {
                               content: {
                              
                                 
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: 'rgba(0, 0, 0, 0.9)',
                          
                                
                               },
                               overlay:{
-                                   backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                   backgroundColor: 'rgba(238, 228, 228, 0.5)',
                                    display: 'flex', 
                                    justifyContent: 'center', 
                                    alignItems: 'center', 
@@ -88,6 +85,8 @@ export function ArtistsCast() {
                            
                             }}
                          >
+
+                              
                           <img className='artistPic' src={selectedArtist.photo} />
                          <h2>{selectedArtist.name}</h2>
                          <p>{selectedArtist.description}</p>
