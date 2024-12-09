@@ -14,20 +14,20 @@ const [albums, setAlbums] = useState([]);
 
           async function getDiscografy(){
               try{
-               const {data} = await axios.get('https://simbiose-api-5.onrender.com')
+               const {data} = await axios.get(`https://simbiose-api-5.onrender.com`)
                setAlbums(data)
-
-               // const response = await fetch('http://localhost:3001/api/music');
+               console.log(albums)
+               // const response = await fetch('https://simbiose-api-5.onrender.com');
                // if(!response.ok){
                //      throw new Error('Network response was not ok');
                // }
                // const data = await response.json()
-            
+           
              
               } catch(error){
                console.error("Erro ao obter discografia:", error);
               }
-               
+            
           };
          
           getDiscografy()
