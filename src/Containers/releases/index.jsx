@@ -14,7 +14,7 @@ const [albums, setAlbums] = useState([]);
 
           async function getDiscografy(){
               try{
-               const {data} = await axios.get('http://localhost:3001/api/music')
+               const {data} = await axios.get('https://simbiose-api-5.onrender.com')
                setAlbums(data)
 
                // const response = await fetch('http://localhost:3001/api/music');
@@ -65,3 +65,7 @@ const [albums, setAlbums] = useState([]);
         </Container>
     )
 }
+
+
+
+//'http://localhost:3001/api/music' endpoint local
