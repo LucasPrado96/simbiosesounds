@@ -14,7 +14,7 @@ const [albums, setAlbums] = useState([]);
 
           async function getDiscografy(){
               try{
-               const {data} = await axios.get('https://simbiose-api-5.onrender.com/api/music')
+               const {data} = await axios.get('https://simbiose-api.onrender.com/api/music')
              
                setAlbums(data)
               
