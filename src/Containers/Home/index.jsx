@@ -70,7 +70,7 @@ useEffect(() => {
                                     <img className='icons' src={Facebook} />
                                 </IconImg>
 
-                                <IconImg  href='https://simbiosesounds.bandcamp.com/' target="_blank" rel="noopener noreferrer">
+                                <IconImg  href='https://open.spotify.com/playlist/2ZSHYvJIBEkQ9npa5eruII?si=6aNnSdnLSTip8mIwti5jwA' target="_blank" rel="noopener noreferrer">
                                     <img className='icons' src={Spotify} />
                                 </IconImg >
 
