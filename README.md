@@ -19,6 +19,7 @@
     <li><strong>Node.js</strong>: Ambiente de execução para o back-end do site.</li>
     <li><strong>Axios</strong>: Biblioteca para comunicação entre o front-end e o back-end.</li>
     <li><strong>React Modal</strong>: Componente para exibição de modais e interações dinâmicas no site.</li>
+    <li><strong>Express</strong>: Framework para criação do servidor backend, rotas, e manipulação de requisições.</li>
   </ul>
 
   <h2>Funcionalidades</h2>
