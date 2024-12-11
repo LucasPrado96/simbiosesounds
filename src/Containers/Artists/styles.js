@@ -40,9 +40,12 @@ width: 50%;
 
  
 @media (max-width: 375px){
-      height: 610px;
+      height: 620px;
     }
 
+    @media (max-width: 344px){
+      height: 660px;
+    }  
 
 
 .iconsLink{

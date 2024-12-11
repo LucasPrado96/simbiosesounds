@@ -69,13 +69,26 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Black Mandala",
         photo: BlackMandala,
-        description: `release`
+        description: `O projeto é composto por Renato Garrido e Rubia Souza, naturais de Porto Alegre/RS. Com sua história no movimento punk e metal, a dupla tem como característica uma pegada cheia de atitude em suas apresentações.
+        O Black Mandala é um dos projetos autorais pioneiros na cena hi-tech no estado, influenciando muitos outros e colocando o RS no mapa do hi-bpm brasileiro. Com muita técnica e teoria musical aplicada, a dupla tem um estilo melódico e explosivo. A marca registrada do projeto é o uso de pianos e instrumentos melódicos incomuns à vertente. Adeptos da cultura punk "faça você mesmo", o Black Mandala utiliza em suas produções sintetizadores construídos por eles mesmos, atingindo uma sonoridade única e timbres tecnológicos inconfundíveis.
+`,
+        icon: sound,
+        icon2: insta,
+        link:  `https://soundcloud.com/blackmandalalive`,
+        link2: `https://www.instagram.com/blackmandala_hitech/`,
     },
 
     {
         name: "Cambiatt",
         photo: Cambiatt,
-        description: `release`
+        description: `Flávio Cambiati, nascido em Curitiba, Paraná, sempre teve uma forte paixão pela música em suas diversas expressões. Seu interesse pelo mundo da música eletrônica foi despertado desde o primeiro contato com festas desse gênero, o que o levou a se aprofundar nesse universo sonoro.
+        Após participar de inúmeras festas e festivais, Flávio encontrou inspiração para se aventurar na produção musical, começando sua jornada de forma autodidata.
+        Flávio Cambiati adota uma abordagem open format dentro das vertentes da música eletrônica, adaptando-se a diferentes contextos, desde eventos pequenos e exclusivos até grandes festas em clubes e festivais. Seus mashups exclusivos garantem a emoção certa para cada ocasião.`,
+
+        icon: sound,
+        icon2: insta,
+        link:  `https://soundcloud.com/cambiatt`,
+        link2: `https://www.instagram.com/flaviocambiati0/`,
     },
 
     {
@@ -107,19 +120,31 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Darkside of FMs",
         photo: darkside,
-        description: `release`
+        description: `Darkside of FMs é o projeto de psytrance noturno de Lucas Camargo, que busca trazer uma nova perspectiva ao ouvinte por meio de modulações de frequências de ondas, formando um som baseado na profundidade de camadas e nuances psicodélicos, acompanhados de basslines fortes e ritmadas que, com certeza, não deixarão ninguém parado na pista de dança.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/darksidepsytrance`,
+        link2: `https://www.instagram.com/darksidefmslive/`,
     },
 
     {
         name: "Evilporks",
         photo: Evilporks,
-        description: `release`
+        description: `Entre o groove mais sombrio e o tribal-dançante, e as influências regionais do Rio Grande do Sul, forma-se esta nova versão entre o darkpsy e o hitech.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/evilporks`,
+        link2: `https://www.instagram.com/garrido_blackmandala/`,
     },
 
     {
         name: "Facury",
         photo: Facury,
-        description: `release`
+        description: `Natural de Araxá, MG, Filipe Facury deu início ao seu projeto em meados de 2014, após se encantar com a magia do psytrance. A partir de 2015, mergulhou de cabeça nos estudos de produção, aprimorando constantemente suas técnicas e adquirindo vasto conhecimento no universo do darkpsy.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/faacurylive`,
+        link2: `https://www.instagram.com/facury_live/`,
     },
 
     {
@@ -146,19 +171,36 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Ikenaga",
         photo: Ikenaga,
-        description: `release`
+        description: `A mistura dos elementos do forest brasileiro com sua herança cultural do Japão tem influência nos resultados de suas produções.
+        Empenhando-se sempre em inovar, trazer e apresentar novidades à pista, Ikenaga utiliza basslines poderosos, atmosferas e timbres marcantes que transmitem emoção à pista de dança em suas apresentações.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/ikenagamusic`,
+        link2: `https://www.instagram.com/ikenagaproject/`,
     },
 
     {
         name: "Ikerumâ",
         photo: Ikeruma,
-        description: `release`
+        description: `Sendo grandes amantes da música, Ikenaga e Tarumã decidiram juntar seus conhecimentos e idealizar o projeto Ikerumã, onde buscam transitar entre o melhor do forest e do darkpsy. 
+        Com o intuito de trazer uma imersão sonora repleta de ambiências e timbres marcantes, fazendo com que o público tenha uma experiência desapegada dos rótulos e possa aproveitar a viagem e o estado de transe que a música psicodélica proporciona em sua mais pura essência.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/ikeruma`,
+        // link2: `https://www.instagram.com/ikenagaproject/`,
     },
 
     {
         name: "Impertinent",
         photo: Impertinent,
-        description: `release`
+        description: `Traz uma profunda e introspectiva experiência sonora por meio de notas experimentais. Com ondas características, batidas rápidas e frequências "sujas", sua música nos leva a uma viagem intensa.
+        Impertinent foi apresentado à música eletrônica primeiramente por sua mãe e, depois de um tempo, sua paixão o levou a descobrir como os músicos criam sua magia.
+        Em 2010, conheceu o Ableton, assim surgiu o projeto.
+        Ele descreve sua música como free-style e vê a música como uma forma de arte, em vez de estar vinculado a um conjunto de regras. Seu som é dramático, engraçado e emocionalmente explosivo, que pode ser descrito com apenas uma palavra: IMPERTINENT.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/impertinente-25`,
+        link2: `https://www.instagram.com/impertinent_hagy/`,
     },
 
     {
@@ -215,16 +257,24 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Leonomalia",
         photo: Leonomalia,
-        description: `release`
+        description: `Leonardo Gasparovic, natural de Curitiba/PR, e filho de músicos, sempre esteve em contato com a música ao lado do pai em shows pelo Brasil desde os 5 anos de idade.
+        Sua luta e vida ordinária sofrem uma drástica mutação ao entrar em contato com o mundo psicodélico em 2013.
+        LeonoMalia é o resultado de todos processos pelos quais passou, somado ao mundo que pôde sentir e tocar por meio de ambiências que nos trazem o dever de interagir com o próximo, criando cenários imprevisíveis. Tem como peculiaridade tocar o mais íntimo dos seus sentimentos e grande habilidade de adaptação ao local em que está inserido, sem ter uma forma específica, podendo ser, assim, o que a mente busca. Transita pelas nuances mais doces e sombrias que a música obscura pode oferecer.
+        Suas principais influências são, música concreta e músicas experimentais como drones e dark ambient.`,
+
+            icon: sound,
+            icon2: insta,
+            link:  `https://soundcloud.com/l-o-gasparovic`,
+            link2: `https://www.instagram.com/leonom4lia_kataclysmic/`,
     },
 
     {
         name: "Mad Noise",
         photo: MadNoise,
         description: `Eduardo Vilela é a mente alquimista por trás de Mad Noise.
-Sua versatilidade musical como djset o levou a palcos prestigiosos, incluindo o festival Universo Paralello na Bahia, em 2014 e 2016, onde sua habilidade de criar atmosferas sonoras hipnóticas conquistou a cena musical.
-Em 2020, ele se formou na primeira turma do Coletivo Darklab, liderado pelo renomado produtor Thiago Pasetchny, mundialmente conhecido pelo projeto Demonizz. Isso marcou um novo patamar em sua carreira, aprimorando suas habilidades e visão musical e artística.
-Atualmente, Mad Noise é integrante do Coletivo Darklab e membro do elenco da gravadora brasileira Simbiose Sounds,e com lançamentos marcados ainda para esse ano.
+        Sua versatilidade musical como djset o levou a palcos prestigiosos, incluindo o festival Universo Paralello na Bahia, em 2014 e 2016, onde sua habilidade de criar atmosferas sonoras hipnóticas conquistou a cena musical.
+        Em 2020, ele se formou na primeira turma do Coletivo Darklab, liderado pelo renomado produtor Thiago Pasetchny, mundialmente conhecido pelo projeto Demonizz. Isso marcou um novo patamar em sua carreira, aprimorando suas habilidades e visão musical e artística.
+        Atualmente, Mad Noise é integrante do Coletivo Darklab e membro do elenco da gravadora brasileira Simbiose Sounds,e com lançamentos marcados ainda para esse ano.
 `,
         icon: sound,
         icon2: insta,
@@ -247,7 +297,15 @@ Atualmente, Mad Noise é integrante do Coletivo Darklab e membro do elenco da gr
     {
         name: "Mulungu",
         photo: Mulungu,
-        description: `release`
+        description: `Bruno F. Silva, produtor musical independente de São Paulo, inspirado por paisagens botânicas e música psicodélica, dedica-se à criação de timbres, dimensões psicodélicas e novas experiências sonoras com seu projeto, um live de hitech. 
+        Propõe ao ouvinte sensações variadas, imprevisibilidade e originalidade, com criações que emergem de sua própria mente. Com baixos groovados, melodias hipnotizantes e leads marcantes, criam uma atmosfera cyber futurista e botânica, incentivando a dança e o contato com as plantas medicinais.
+        Mulungu desperta a curiosidade do ouvinte para o poder de cura das plantas. Suas paisagens sonoras metálicas, orgânicas e tecnológicas criam uma conexão entre máquinas, vida, tecnologias e sensações, com arranjos simbólicos e marcantes. Teletransportando o ouvinte para florestas profundas e reinos tecnológicos ancestrais.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/mulungu-erythrina`,
+        link2: `https://www.instagram.com/mulungulive/`,
+
     },
 
     {
@@ -264,22 +322,28 @@ Atualmente, Mad Noise é integrante do Coletivo Darklab e membro do elenco da gr
     {
         name: "OM237",
         photo: OM237,
-        description: `release`
+        description: `Criado por Paulo Albach, residente de Joinville, o projeto OM237 busca sonoridades que transcendem rótulos e definições comuns, representando a síntese da liberdade em frequências sonoras.`,
+
+        icon: sound,
+        icon2: insta,
+        link:  `https://soundcloud.com/om237`,
+        link2: `https://www.instagram.com/opauloalbach/`,
+
     },
 
     {
         name: "PurpleWaves",
         photo: Purplewaves,
         description: `O mineiro Victor Mota é o nome por trás do projeto Purplewaves, criado em 2018, após
-vários anos frequentando e estudando festivais pelo Brasil. Inicialmente baseado no Fullon
-clássico europeu do final dos anos 2000, o projeto agora apresenta uma sonoridade
-moderna, mantendo uma identidade dançante, em uma comunhão entre melodia e a
-ambientação noturna, focado em variações de bassline, com a promessa de manter a
-energia da pista do começo ao fim das apresentações.
+        vários anos frequentando e estudando festivais pelo Brasil. Inicialmente baseado no Fullon
+        clássico europeu do final dos anos 2000, o projeto agora apresenta uma sonoridade
+        moderna, mantendo uma identidade dançante, em uma comunhão entre melodia e a
+        ambientação noturna, focado em variações de bassline, com a promessa de manter a
+        energia da pista do começo ao fim das apresentações.
 
-O projeto chegou em Curitiba em 2022 e se apresentou em diversos eventos locais
-importantes, como o Festival Ananta, Dark City, Yin Yang Festival, Psygroove e Churrasco de
-Cogumelos.`,
+        O projeto chegou em Curitiba em 2022 e se apresentou em diversos eventos locais
+        importantes, como o Festival Ananta, Dark City, Yin Yang Festival, Psygroove e Churrasco de
+        Cogumelos.`,
 
         icon: sound,
         icon2: insta,
@@ -310,17 +374,22 @@ Cogumelos.`,
     },
 
     {
-        name: "Reflexto Ativo",
+        name: "Reflexo Ativo",
         photo: ReflextoAtivo,
-        description: `release`
+        description: `Ricardo Nascimento é o nome por trás do Reflexo Ativo. O projeto é uma forma livre de expressão, com faixas que trazem elementos da natureza, timbres industriais e tecnológicos, variando de 90 a 160 BPMs. Busca sempre apresentar novas perspectivas sonoras/espaciais com referências da cultura latino-americana.`,
+
+        icon: sound,
+        icon2: insta,
+        link:  `https://soundcloud.com/rasztec`,
+        link2: `https://www.instagram.com/rasztec/`,
     },
 
     {
         name: "Satanakia",
         photo: Satanakia,
         description: `Alexandre de Mattos (aka Bizarro) nasceu em São Paulo e está em contato com a música eletrônica desde o início da década de 90. Frequentava festas da cena clubber da época e mais tarde passou a também frequentar alguns festivais, o que o fez desejar se tornar um produtor. 
-Com sua base musical oriunda do violão e da guitarra - instrumentos que tocava na adolescência - e das festas e festivais que havia frequentado, começou suas primeiras experiências em produção de música eletrônica em 2002, também tornando-se DJ.
-Mais tarde, em 2012, foi ao seu primeiro festival de psytrance e decidiu por também fazer parte desse universo.`,
+        Com sua base musical oriunda do violão e da guitarra - instrumentos que tocava na adolescência - e das festas e festivais que havia frequentado, começou suas primeiras experiências em produção de música eletrônica em 2002, também tornando-se DJ.
+        Mais tarde, em 2012, foi ao seu primeiro festival de psytrance e decidiu por também fazer parte desse universo.`,
 
         icon: sound,
         icon2: insta,
@@ -344,7 +413,14 @@ Mais tarde, em 2012, foi ao seu primeiro festival de psytrance e decidiu por tam
     {
         name: "Stranger Swamp",
         photo: StrangerSwamp,
-        description: `release`
+        description: `Stranger Swamp é o projeto paralelo de dark psy/forest de Lucas Magalhães, também conhecido como Inverted World.
+        Com a proposta de mostrar um lado mais obscuro, acelerado, frenético e psicodélico de sua mente, o projeto apresenta produções com texturas densas, atmosferas profundas e um design de som futurista, explorando os limites de sua mente e criatividade. 
+        A jornada para criar este projeto começou quando Lucas sentiu o chamado para explorar novas sonoridades. Desde então, dedica-se incansavelmente à estética e identidade sonora do Stranger Swamp, buscando transmitir sentimento e qualidade em cada batida.`,
+
+        icon: sound,
+        icon2: insta,
+        link:  `https://soundcloud.com/stranger-swamp`,
+        link2: `https://www.instagram.com/stranger_swamp_music/`,
     },
 
     {
@@ -382,15 +458,26 @@ Mais tarde, em 2012, foi ao seu primeiro festival de psytrance e decidiu por tam
     },
 
     {
-        name: "Tusta",
+        name: "Cosmic Vandal",
         photo: Tusta,
-        description: `release`
+        description: `Nascido no interior de São Paulo, na cidade de Campinas, Gustavo, a mente por trás do projeto Cosmic Vandal – e também do projeto Voguz –, formou-se em produção de música eletrônica na Universidade Anhembi Morumbi, em São Paulo, e no SAE Institute, em Barcelona. Cosmic Vandal explora a psicodelia sonora com influências que transitam pelas camadas mais obscuras da música psicodélica.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/tustera`,
+        link2: `https://www.instagram.com/cosmic_vandal/`,
     },
 
     {
         name: "Wawii",
         photo: Wawii,
-        description: `release`
+        description: `Wawii é o projeto autoral do DJ e produtor brasileiro Allan Araújo.
+        Focado no som noturno, transitando entre as texturas do Darkpsy e Forest, Wawii é a materialização de anos de estrada na cena psicodélica.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/wawiimusic`,
+        link2: `https://www.instagram.com/wawii.allan/`,
     },
 
 

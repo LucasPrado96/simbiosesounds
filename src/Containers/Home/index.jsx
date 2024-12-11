@@ -77,6 +77,7 @@ useEffect(() => {
                                 <IconImg  href='https://www.instagram.com/simbiose.sounds/' target="_blank" rel="noopener noreferrer">
                                     <img className='icons' src={Insta} />
                                 </IconImg>
+                                
                         </ContainerLinks>
                   
                 </Container1>
