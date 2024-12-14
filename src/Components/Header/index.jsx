@@ -3,6 +3,7 @@ import Logo from '../../assets/logo.png'
 import Logo2 from '../../assets/logo-letra.png'
 import Logo3 from '../../assets/simbiosebranco.png'
 import { useState } from 'react'
+import { useLocation } from 'react-router-dom'
 
 
 
@@ -11,7 +12,16 @@ import { useState } from 'react'
 
 
 export function HeaderSite() {
-    const [isOpen, setIsOpen] = useState(false)
+    const [isOpen, setIsOpen] = useState(false);
+
+    const location = useLocation()
+
+  
+
+
+
+
+ 
 
 
 
@@ -29,11 +39,11 @@ function openMenu(){
             
             {isOpen && (
                      <OptionsMenu >
-                        <AResponsive to={'/'}>Home</AResponsive>
-                        <AResponsive to={'/releases'}>Releases</AResponsive>
-                        <AResponsive>Merchandising</AResponsive>
+                        <AResponsive to={'/'} >Home</AResponsive>
+                        <AResponsive to={'/releases'} >Releases</AResponsive>
+                        <AResponsive >Merchandising</AResponsive>
                         <AResponsive to={'/artists'}>Artists</AResponsive>
-                        <AResponsive to={'/sobre'}>About</AResponsive>
+                        <AResponsive to={'/sobre'} >About</AResponsive>
                         <img src={Logo3} />
                     </OptionsMenu>
 
@@ -51,11 +61,11 @@ function openMenu(){
             <Header>
                 <img src={Logo} />
                 <div>
-                    <A to={'/'}>Home</A>
-                    <A to={'/releases'}>Releases</A>
+                    <A to={'/'} style={{opacity: location.pathname === '/'  ? 0.4 : 1 }} >Home</A>
+                    <A to={'/releases'} style={{opacity: location.pathname === '/releases' ? 0.4 : 1 }} >Releases</A>
                     <A>Merchandising</A>
-                    <A to={'/artists'}>Artists</A>
-                    <A to={'/sobre'}>About</A>
+                    <A to={'/artists'} style={{opacity: location.pathname === '/artists' ? 0.4 : 1 }} >Artists</A>
+                    <A to={'/sobre'} style={{opacity: location.pathname === '/sobre' ? 0.4 : 1 }}>About</A>
                 </div>
                 <img src={Logo2} />
             </Header>
