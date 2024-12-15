@@ -23,6 +23,7 @@ width: 100%;
 `
 
 
+
 export const Header = Styled.header`
 background-color: black;
 display: flex;

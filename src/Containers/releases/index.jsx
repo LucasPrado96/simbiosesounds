@@ -1,4 +1,4 @@
-import { Container, Main, Cast, ReleaseContent } from './styles'
+import { Container, Main, Cast, ReleaseContent,  } from './styles'
 import axios from 'axios'
 import {FooterSite} from '../../Components/Footer'
 
@@ -9,6 +9,7 @@ import { useEffect, useState } from 'react';
     
 export function Releases() {
 const [albums, setAlbums] = useState([]);
+const [loading, setLoading] = useState(true)
 
      useEffect(() =>{
 
@@ -16,17 +17,17 @@ const [albums, setAlbums] = useState([]);
               try{
                const {data} = await axios.get('https://simbiose-api.onrender.com/api/music')
              
-               setAlbums(data)
+            
               
-               // const response = await fetch('https://simbiose-api-5.onrender.com');
-               // if(!response.ok){
-               //      throw new Error('Network response was not ok');
-               // }
-               // const data = await response.json()
+                    setAlbums(data)
+                    
+               
            
              
               } catch(error){
                console.error("Erro ao obter discografia:", error);
+              } finally {
+                setLoading(false)
               }
             
           };
@@ -41,23 +42,25 @@ const [albums, setAlbums] = useState([]);
             <HeaderSite />
             <Cast>Releases</Cast>
             <Main>
+        
+            {loading ? <p>Carregando Releases...</p>  : 
+            
+            albums && albums.map((track, index) => (
+                <ReleaseContent key={index}>
+                  <a href={track.url} target="_blank" rel="noopener noreferrer">
+                  <img src={track.coverart}/>
 
-            {albums && albums.map((track, index) => (
-                  <ReleaseContent key={index}>
-                    <a href={track.url} target="_blank" rel="noopener noreferrer">
-                    <img src={track.coverart}/>
+                  </a>
 
-                    </a>
-
-                    
-                        <p>{track.title}</p>
-                        <p className='nameTrack'>{track.artists}</p>
                   
-                  
-                  
-                  </ReleaseContent>
-                  
-            ))}
+                      <p>{track.title}</p>
+                      <p className='nameTrack'>{track.artists}</p>
+                
+                
+                
+                </ReleaseContent>
+                
+          ))}
               
                 
                

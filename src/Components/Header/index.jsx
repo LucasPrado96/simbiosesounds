@@ -41,7 +41,7 @@ function openMenu(){
                      <OptionsMenu >
                         <AResponsive to={'/'} >Home</AResponsive>
                         <AResponsive to={'/releases'} >Releases</AResponsive>
-                        <AResponsive >Merchandising</AResponsive>
+                        {/* <AResponsive >Merchandising</AResponsive> */}
                         <AResponsive to={'/artists'}>Artists</AResponsive>
                         <AResponsive to={'/sobre'} >About</AResponsive>
                         <img src={Logo3} />
@@ -63,7 +63,7 @@ function openMenu(){
                 <div>
                     <A to={'/'} style={{opacity: location.pathname === '/'  ? 0.4 : 1 }} >Home</A>
                     <A to={'/releases'} style={{opacity: location.pathname === '/releases' ? 0.4 : 1 }} >Releases</A>
-                    <A>Merchandising</A>
+                    {/* <A>Merchandising</A> */}
                     <A to={'/artists'} style={{opacity: location.pathname === '/artists' ? 0.4 : 1 }} >Artists</A>
                     <A to={'/sobre'} style={{opacity: location.pathname === '/sobre' ? 0.4 : 1 }}>About</A>
                 </div>
