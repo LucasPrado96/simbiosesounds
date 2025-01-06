@@ -180,7 +180,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     },
 
     {
-        name: "Ikerumâ",
+        name: "Ikerumã",
         photo: Ikeruma,
         description: `Sendo grandes amantes da música, Ikenaga e Tarumã decidiram juntar seus conhecimentos e idealizar o projeto Ikerumã, onde buscam transitar entre o melhor do forest e do darkpsy. 
         Com o intuito de trazer uma imersão sonora repleta de ambiências e timbres marcantes, fazendo com que o público tenha uma experiência desapegada dos rótulos e possa aproveitar a viagem e o estado de transe que a música psicodélica proporciona em sua mais pura essência.`,
