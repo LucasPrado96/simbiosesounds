@@ -43,23 +43,7 @@ export const Artists = [
     {
         name: "Alien Time",
         photo: AlienTime,
-        description: `Lucas Prado, Cruzeiro - SP, envolvido com a música eletrônica desde 
-seus 7 anos, foi influenciado através de obras caóticas do 
-Witch house, bandas de metal, Dark ambient e Hardstyle.
-
-E então com 17 anos começou produzir,
-buscando sempre trazer essas
-influências para o seu Psytrance 
-deixando tudo muito agitado e caótico
-combinado com muita lisergia.
- 
-Assim traz uma linha onde mistura 
-a energia do fullon night e o caos obscuro do Forest.
-Com apresentações em vários estados, e com lançamentos musicais pela Hueco Records, 
-Darkon Records, Trancedencya Records e Simbiose Records. 
-
-
-`,
+        description: `Lucas Prado, from Cruzeiro/SP, has been involved with electronic music since he was 7 years old, influenced by the chaotic works of Witch house, metal bands, Dark ambient, and Hardstyle. At 17, he started producing, always seeking to bring these influences to his Psytrance, making everything very agitated and chaotic combined with a lot of lysergia. He brings a line that mixes the energy of fullon night and the dark chaos of Forest. With performances in several states and musical releases through Hueco Records, Darkon Records, Trancedencya Records, and Simbiose Records.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/alientime`,
@@ -69,8 +53,8 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Black Mandala",
         photo: BlackMandala,
-        description: `O projeto é composto por Renato Garrido e Rubia Souza, naturais de Porto Alegre/RS. Com sua história no movimento punk e metal, a dupla tem como característica uma pegada cheia de atitude em suas apresentações.
-        O Black Mandala é um dos projetos autorais pioneiros na cena hi-tech no estado, influenciando muitos outros e colocando o RS no mapa do hi-bpm brasileiro. Com muita técnica e teoria musical aplicada, a dupla tem um estilo melódico e explosivo. A marca registrada do projeto é o uso de pianos e instrumentos melódicos incomuns à vertente. Adeptos da cultura punk "faça você mesmo", o Black Mandala utiliza em suas produções sintetizadores construídos por eles mesmos, atingindo uma sonoridade única e timbres tecnológicos inconfundíveis.
+        description: `
+       The project consists of Renato Garrido and Rubia Souza, natives of Porto Alegre/RS. With their history in the punk and metal movement, the duo's characteristic is an attitude-filled approach in their performances. Black Mandala is one of the pioneering original projects in the hi-tech scene in the state, influencing many others and putting RS on the Brazilian hi-bpm map. With a lot of technical skill and applied music theory, the duo has a melodic and explosive style. The project's trademark is the use of pianos and melodic instruments unusual to the style. Adherents of the "do-it-yourself" punk culture, Black Mandala uses synthesizers built by themselves in their productions, achieving a unique sound and unmistakable technological timbres.
 `,
         icon: sound,
         icon2: insta,
@@ -81,9 +65,8 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Cambiatt",
         photo: Cambiatt,
-        description: `Flávio Cambiati, nascido em Curitiba, Paraná, sempre teve uma forte paixão pela música em suas diversas expressões. Seu interesse pelo mundo da música eletrônica foi despertado desde o primeiro contato com festas desse gênero, o que o levou a se aprofundar nesse universo sonoro.
-        Após participar de inúmeras festas e festivais, Flávio encontrou inspiração para se aventurar na produção musical, começando sua jornada de forma autodidata.
-        Flávio Cambiati adota uma abordagem open format dentro das vertentes da música eletrônica, adaptando-se a diferentes contextos, desde eventos pequenos e exclusivos até grandes festas em clubes e festivais. Seus mashups exclusivos garantem a emoção certa para cada ocasião.`,
+        description: `Flávio Cambiati, born in Curitiba/PR, has always had a strong passion for music in its various expressions. His interest in the world of electronic music was sparked from his first contact with parties of this genre, which led him to delve deeper into this sonic universe. After participating in numerous parties and festivals, Flávio found inspiration to venture into music production, beginning his journey in a self-taught manner. Flávio Cambiati adopts an open format approach within the strands of electronic music, adapting to different contexts, from small and exclusive events to large parties in clubs and festivals. His exclusive mashups guarantee the right emotion for each occasion.
+`,
 
         icon: sound,
         icon2: insta,
@@ -94,11 +77,10 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Corvus",
         photo: Corvus,
-        description: `"Corvus" é um projeto musical criado por Eduardo Lira, que mergulha profundamente em sensações inéditas, combinando atmosferas inquietantes, melodias sombrias e sínteses únicas inspiradas pelo universo. Eduardo descobriu o psytrance em 2010 e rapidamente se apaixonou pelo High BPM, explorando as nuances desse estilo.
-
-            Em 2019, ele deu início ao projeto "Oryezurk", que serviu como base para suas experimentações sonoras. Já em 2023, nasceu o projeto "Corvus", com o objetivo de transformar sua insanidade criativa em música, entregando experiências sonoras intensas e memoráveis.
-
-                Surfando nas ondas sonoras e respirando frequências insanas, Corvus explora os limites do som, transformando ideias em experiências que conectam o universo ao caos criativo.`,
+        description: 
+        `
+        "Corvus" is a musical project created by Eduardo Lira, which delves deeply into unprecedented sensations, combining unsettling atmospheres, dark melodies, and unique syntheses inspired by the universe. Eduardo discovered psytrance in 2010 and quickly fell in love with High BPM, exploring the nuances of this style. In 2019, he started the "Oryezurk" project, which served as the basis for his sound experiments. In 2023, the "Corvus" project was born, with the aim of transforming his creative madness into music, delivering intense and memorable sound experiences. Surfing on sound waves and breathing insane frequencies, Corvus explores the limits of sound, transforming ideas into experiences that connect the universe to creative chaos.
+          `,
 
         icon: sound,
         icon2: insta,
@@ -110,7 +92,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Dalikaos",
         photo: Dalikaos,
-        description: `Minha missão é levar a pista de dança a uma jornada repleta de caos e energia, fazendo uso de poderosos baixos, sons hipnotizantes e atmosferas sombrias.`,
+        description: `My mission is to take the dance floor on a journey full of chaos and energy, making use of powerful bass, hypnotizing sounds, and dark atmospheres.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/dalikaos`,
@@ -120,7 +102,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Darkside of FMs",
         photo: darkside,
-        description: `Darkside of FMs é o projeto de psytrance noturno de Lucas Camargo, que busca trazer uma nova perspectiva ao ouvinte por meio de modulações de frequências de ondas, formando um som baseado na profundidade de camadas e nuances psicodélicos, acompanhados de basslines fortes e ritmadas que, com certeza, não deixarão ninguém parado na pista de dança.`,
+        description: `Darkside of FMs is the nocturnal psytrance project of Lucas Camargo, which seeks to bring a new perspective to the listener through wave frequency modulations, forming a sound based on the depth of layers and psychedelic nuances, accompanied by strong and rhythmic basslines that will certainly not leave anyone standing still on the dance floor.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/darksidepsytrance`,
@@ -130,7 +112,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Evilporks",
         photo: Evilporks,
-        description: `Entre o groove mais sombrio e o tribal-dançante, e as influências regionais do Rio Grande do Sul, forma-se esta nova versão entre o darkpsy e o hitech.`,
+        description: `Between the darkest groove and the tribal-dancing, and the regional influences of Rio Grande do Sul, this new version between darkpsy and hitech is formed.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/evilporks`,
@@ -140,7 +122,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Facury",
         photo: Facury,
-        description: `Natural de Araxá, MG, Filipe Facury deu início ao seu projeto em meados de 2014, após se encantar com a magia do psytrance. A partir de 2015, mergulhou de cabeça nos estudos de produção, aprimorando constantemente suas técnicas e adquirindo vasto conhecimento no universo do darkpsy.`,
+        description: `Native of Araxá/MG, Filipe Facury began his project in mid-2014, after being enchanted by the magic of psytrance. From 2015, he dived headfirst into production studies, constantly improving his techniques and acquiring vast knowledge in the universe of darkpsy.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/faacurylive`,
@@ -150,7 +132,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Grozzny",
         photo: Grozzny,
-        description: `Ivan Rizzo toca guitarra desde os 12 anos de idade, e sonhava em viver de metal e rock. Hoje, mais de 10 anos depois, acredita que apenas 6 cordas não são o suficiente pra dar vazão à criatividade. Rápidas melodias, debates de sintetizadores e paisagens surreais preenchem a jornada altamente tecnológica desenvolvida desde 2014, quando surgiu Grozzny.`,
+        description: `Ivan Rizzo has been playing guitar since he was 12 years old, and dreamed of living off metal and rock. Today, more than 10 years later, he believes that only 6 strings are not enough to give way to creativity. Fast melodies, synthesizer debates, and surreal landscapes fill the highly technological journey developed since 2014, when Grozzny emerged.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/grozzny`,
@@ -160,7 +142,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Hinky Punk",
         photo: HinkyPunk,
-        description: `Histórias contam que o Hinky Punk é um ser que se esconde e fica à espreita em regiões remotas. Durante a noite sua lanterna confunde e atrai andarilhos cansados, que julgam que aquele brilho seja seu destino. Quando se veem totalmente fora de sua trilha, perdidos na floresta para grande satisfação do Hinky Punk.`,
+        description: `Stories tell that the Hinky Punk is a being that hides and lurks in remote regions. During the night, its lantern confuses and attracts weary wanderers, who think that the light is their destination. When they find themselves completely off their path, lost in the forest to the great satisfaction of the Hinky Punk.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/hinkypunkdj`,
@@ -171,8 +153,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Ikenaga",
         photo: Ikenaga,
-        description: `A mistura dos elementos do forest brasileiro com sua herança cultural do Japão tem influência nos resultados de suas produções.
-        Empenhando-se sempre em inovar, trazer e apresentar novidades à pista, Ikenaga utiliza basslines poderosos, atmosferas e timbres marcantes que transmitem emoção à pista de dança em suas apresentações.`,
+        description: `The mix of Brazilian forest elements with his cultural heritage from Japan influences the results of his productions. Always striving to innovate, bring, and present new things to the dance floor, Ikenaga uses powerful basslines, atmospheres, and striking timbres that transmit emotion to the dance floor in his performances.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/ikenagamusic`,
@@ -182,8 +163,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Ikerumã",
         photo: Ikeruma,
-        description: `Sendo grandes amantes da música, Ikenaga e Tarumã decidiram juntar seus conhecimentos e idealizar o projeto Ikerumã, onde buscam transitar entre o melhor do forest e do darkpsy. 
-        Com o intuito de trazer uma imersão sonora repleta de ambiências e timbres marcantes, fazendo com que o público tenha uma experiência desapegada dos rótulos e possa aproveitar a viagem e o estado de transe que a música psicodélica proporciona em sua mais pura essência.`,
+        description: `Being great music lovers, Ikenaga and Tarumã decided to combine their knowledge and create the Ikerumã project, where they seek to move between the best of forest and darkpsy. With the intention of bringing a sound immersion full of ambiences and striking timbres, making the audience have an experience detached from labels and can enjoy the trip and the trance state that psychedelic music provides in its purest essence.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/ikeruma`,
@@ -193,10 +173,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Impertinent",
         photo: Impertinent,
-        description: `Traz uma profunda e introspectiva experiência sonora por meio de notas experimentais. Com ondas características, batidas rápidas e frequências "sujas", sua música nos leva a uma viagem intensa.
-        Impertinent foi apresentado à música eletrônica primeiramente por sua mãe e, depois de um tempo, sua paixão o levou a descobrir como os músicos criam sua magia.
-        Em 2010, conheceu o Ableton, assim surgiu o projeto.
-        Ele descreve sua música como free-style e vê a música como uma forma de arte, em vez de estar vinculado a um conjunto de regras. Seu som é dramático, engraçado e emocionalmente explosivo, que pode ser descrito com apenas uma palavra: IMPERTINENT.`,
+        description: `t brings a deep and introspective sonic experience through experimental notes. With characteristic waves, fast beats, and "dirty" frequencies, his music takes us on an intense journey. Impertinent was first introduced to electronic music by his mother, and after a while, his passion led him to discover how musicians create their magic. In 2010, he discovered Ableton, and thus the project was born. He describes his music as free-style and sees music as an art form, rather than being bound by a set of rules. His sound is dramatic, funny, and emotionally explosive, which can be described with just one word: IMPERTINENT.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/impertinente-25`,
@@ -206,7 +183,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Kataklyzma",
         photo: Kataklyzma,
-        description: `Kataklyzma é o projeto de darkpsy experimental idealizado por Lucas Wurzner, que procura unir a cultura da música eletrônica underground à musicalidade que o influenciou durante sua vida em suas produções. O projeto traz consigo ambiências densas e arranjos caóticos, transitando entre frequências psicodélicas, gerando um som carregado e único. `,
+        description: `Kataklyzma is an experimental darkpsy project conceived by Lucas Wurzner, which seeks to unite the culture of underground electronic music with the musicality that influenced him during his life in his productions. The project brings with it dense ambiences and chaotic arrangements, moving between psychedelic frequencies, generating a loaded and unique sound.`,
         icon: sound,
         icon2: insta,
         link: `https://on.soundcloud.com/qyXq9`,
@@ -217,9 +194,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "ka'a porã ",
         photo: Kaapora,
-        description: `Natural de São Paulo, Brenda Taka, grande entusiasta da arte em suas mais diversas formas de expressão, apaixonada por sonoridades de todos os tipos, encontrou na música eletrônica algo que tocou e mudou sua vida profundamente: a infinidade de possibilidades. Decidiu, assim, dedicar sua jornada de vida para a música e, através da potencialidade dela, eternizar seu impacto em muitos corações. 
-        Assim nasceu o projeto com o nome ka’a porã - de origem tupi - que significa “mata bonita” e, para a canalizadora do projeto, simboliza não apenas a forte presença de elementos sonoros dos povos originários em seus sets, mas também exalta a importância de retornarmos às raízes brasileiras com profunda reverência e a devida enaltação.
-        Eterna aprendiz, não se limita a tocar apenas um ou outro som, crê que tudo pode ser transformado e ressignificado, assim como a própria existência humana.`,
+        description: `Native of São Paulo/SP, Brenda Taka, a great enthusiast of art in its most diverse forms of expression, passionate about sounds of all kinds, found in electronic music something that touched and changed her life profoundly: the infinity of possibilities. She decided, therefore, to dedicate her life's journey to music and, through its potential, to eternalize her impact on many hearts. Thus was born the project with the name ka’a porã - of Tupi origin - which means “beautiful forest” and, for the channeler of the project, symbolizes not only the strong presence of sonic elements of native peoples in her sets, but also exalts the importance of returning to Brazilian roots with deep reverence and due praise. An eternal learner, she is not limited to playing just one sound or another, she believes that everything can be transformed and re-signified, just like human existence itself.`,
 
         icon: sound,
         icon2: insta,
@@ -232,9 +207,8 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Kedai",
         photo: Kedai,
-        description: ` Caio Ikeda aka KEDAI é um artista multi-instrumentista que em suas músicas combina elementos orgânicos e eletrônicos, resultando em uma sonoridade única.
-        Uma das características mais marcantes de suas musicas é a atmosfera densa que ele consegue construir. Utilizando uma combinação de efeitos sonoros e sons atmosféricos para criar paisagens sonoras imersivas e hipnóticas.
-            Ao mergulhar em suas composições, é impossível não se deixar levar por seus ritmos contínuos e hipnóticos. Criando sequências rítmicas que te envolvem em uma jornada psicodélica, onde cada batida e cada ritmo te transportam para um estado de transe musical.`,
+        description: ` Caio Ikeda a.k.a. Kedai is a multi-instrumentalist artist who combines organic and electronic elements in his music, resulting in a unique sound. One of the most striking characteristics of his music is the dense atmosphere he manages to build. Using a combination of sound effects and atmospheric sounds to create immersive and hypnotic soundscapes. When immersed in his compositions, it is impossible not to be carried away by his continuous and hypnotic rhythms. Creating rhythmic sequences that involve you in a psychedelic journey, where each beat and each rhythm transport you to a state of musical trance.
+`,
 
             icon: sound,
             icon2: insta,
@@ -246,7 +220,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Krypta",
         photo: Krypta,
-        description: `Krypta busca criar sonoridades intensas e profundas, com basslines complexas e ambientações lisérgicas que envolvem o ouvinte. O projeto se dedica a explorar novas possibilidades dentro do psytrance, buscando sempre inovação e diversidade sonora. Com faixas que equilibram técnica e criatividade, a proposta é proporcionar uma experiência única e imersiva, onde a música se torna uma viagem sonora que se conecta de forma genuína com quem a escuta.`,
+        description: `Krypta seeks to create intense and profound sounds, with complex basslines and lysergic atmospheres that involve the listener. The project is dedicated to exploring new possibilities within psytrance, always seeking innovation and sonic diversity. With tracks that balance technique and creativity, the proposal is to provide a unique and immersive experience, where music becomes a sonic journey that connects genuinely with those who listen to it.`,
 
             icon: sound,
             icon2: insta,
@@ -257,10 +231,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Leonomalia",
         photo: Leonomalia,
-        description: `Leonardo Gasparovic, natural de Curitiba/PR, e filho de músicos, sempre esteve em contato com a música ao lado do pai em shows pelo Brasil desde os 5 anos de idade.
-        Sua luta e vida ordinária sofrem uma drástica mutação ao entrar em contato com o mundo psicodélico em 2013.
-        LeonoMalia é o resultado de todos processos pelos quais passou, somado ao mundo que pôde sentir e tocar por meio de ambiências que nos trazem o dever de interagir com o próximo, criando cenários imprevisíveis. Tem como peculiaridade tocar o mais íntimo dos seus sentimentos e grande habilidade de adaptação ao local em que está inserido, sem ter uma forma específica, podendo ser, assim, o que a mente busca. Transita pelas nuances mais doces e sombrias que a música obscura pode oferecer.
-        Suas principais influências são, música concreta e músicas experimentais como drones e dark ambient.`,
+        description: `Leonardo Gasparovic, native of Curitiba/PR, and son of musicians, has always been in contact with music alongside his father in shows throughout Brazil since he was 5 years old. His struggle and ordinary life undergo a drastic mutation when he comes into contact with the psychedelic world in 2013. LeonoMalia is the result of all the processes he went through, added to the world that he could feel and touch through ambiances that bring us the duty to interact with others, creating unpredictable scenarios. It has as its peculiarity to play the most intimate of its feelings and great ability to adapt to the place where it is inserted, without having a specific form, thus being what the mind seeks. It moves through the sweetest and darkest nuances that obscure music can offer. His main influences are, concrete music and experimental music like drones and dark ambient.`,
 
             icon: sound,
             icon2: insta,
@@ -271,11 +242,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Mad Noise",
         photo: MadNoise,
-        description: `Eduardo Vilela é a mente alquimista por trás de Mad Noise.
-        Sua versatilidade musical como djset o levou a palcos prestigiosos, incluindo o festival Universo Paralello na Bahia, em 2014 e 2016, onde sua habilidade de criar atmosferas sonoras hipnóticas conquistou a cena musical.
-        Em 2020, ele se formou na primeira turma do Coletivo Darklab, liderado pelo renomado produtor Thiago Pasetchny, mundialmente conhecido pelo projeto Demonizz. Isso marcou um novo patamar em sua carreira, aprimorando suas habilidades e visão musical e artística.
-        Atualmente, Mad Noise é integrante do Coletivo Darklab e membro do elenco da gravadora brasileira Simbiose Sounds,e com lançamentos marcados ainda para esse ano.
-`,
+        description: ` Eduardo Vilela is the alchemist mind behind Mad Noise. His musical versatility as a djset has taken him to prestigious stages, including the Universo Paralello festival in Bahia, in 2014 and 2016, where his ability to create hypnotic sound atmospheres conquered the music scene. In 2020, he graduated from the first class of the Darklab Collective, led by the renowned producer Thiago Pasetchny, known worldwide for the Demonizz project. This marked a new level in his career, improving his skills and musical and artistic vision. Currently, Mad Noise is a member of the Darklab Collective and a member of the cast of the Brazilian label Simbiose Sounds, with releases scheduled for this year.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/maadnoise`,
@@ -286,7 +253,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Mariela",
         photo: Mariela,
-        description: `Mariela é ligada nos 220 e seu objetivo é simples: fazer o circo pegar fogo. O projeto foi idealizado pela dj Mari Molina que, desde 2017, comanda as mais diversas pistas buscando elevar o astral de quem estiver presente num passeio diferenciado pelas vertentes do darkpsy como hitech, psycore e experimental além de trazer influências de fora do psytrance para os sets. Fazendo sons com amor e barulho nas mesmas proporções. `,
+        description: `Mariela is at 220 volts and her goal is simple: to set the circus on fire. The project was created by DJ Mari Molina who, since 2017, has commanded the most diverse dance floors, seeking to elevate the vibe of anyone present on a different trip through the strands of darkpsy such as hitech, psycore, and experimental, in addition to bringing influences from outside of psytrance to the sets. Making sounds with love and noise in the same proportions.`,
         icon: sound,
         icon2: insta,
         link: `soundcloud.com/mariel4`,
@@ -297,9 +264,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Mulungu",
         photo: Mulungu,
-        description: `Bruno F. Silva, produtor musical independente de São Paulo, inspirado por paisagens botânicas e música psicodélica, dedica-se à criação de timbres, dimensões psicodélicas e novas experiências sonoras com seu projeto, um live de hitech. 
-        Propõe ao ouvinte sensações variadas, imprevisibilidade e originalidade, com criações que emergem de sua própria mente. Com baixos groovados, melodias hipnotizantes e leads marcantes, criam uma atmosfera cyber futurista e botânica, incentivando a dança e o contato com as plantas medicinais.
-        Mulungu desperta a curiosidade do ouvinte para o poder de cura das plantas. Suas paisagens sonoras metálicas, orgânicas e tecnológicas criam uma conexão entre máquinas, vida, tecnologias e sensações, com arranjos simbólicos e marcantes. Teletransportando o ouvinte para florestas profundas e reinos tecnológicos ancestrais.`,
+        description: `Bruno F. Silva, an independent music producer from São Paulo/SP, inspired by botanical landscapes and psychedelic music, is dedicated to the creation of timbres, psychedelic dimensions, and new sound experiences with his project, a hitech live. It proposes to the listener varied sensations, unpredictability, and originality, with creations that emerge from his own mind. With groovy bass, hypnotizing melodies, and striking leads, they create a cyber futuristic and botanical atmosphere, encouraging dance and contact with medicinal plants. Mulungu awakens the listener's curiosity about the healing power of plants. His metallic, organic, and technological soundscapes create a connection between machines, life, technologies, and sensations, with symbolic and striking arrangements. Teleporting the listener to deep forests and ancestral technological kingdoms.`,
 
         icon: sound,
         icon2: insta,
@@ -311,7 +276,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Niyatima",
         photo: Niyatima,
-        description: `Niyatima é o projeto de Lucas Pimazoni, nascido em São Paulo, criado em 2020. Sempre teve paixão pela quantidade de sentimentos, emoções e memórias que a música faz você alcançar. Seu estilo consiste em uma viagem entre frequências das quais, em conjunto, criam um ambiente de total imersão na pista de dança, fazendo com que o ouvinte alcance um relaxamento profundo diante de um estado de consciência alterado.`,
+        description: `Niyatima is the project of Lucas Pimazoni, born in São Paulo/SP, created in 2020. He has always had a passion for the amount of feelings, emotions, and memories that music makes you achieve. His style consists of a journey between frequencies which, together, create an environment of total immersion on the dance floor, making the listener achieve deep relaxation in the face of an altered state of consciousness.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/niyatima`,
@@ -322,7 +287,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "OM237",
         photo: OM237,
-        description: `Criado por Paulo Albach, residente de Joinville, o projeto OM237 busca sonoridades que transcendem rótulos e definições comuns, representando a síntese da liberdade em frequências sonoras.`,
+        description: `Created by Paulo Albach, resident of Joinville/SC, the OM237 project seeks sounds that transcend common labels and definitions, representing the synthesis of freedom in sound frequencies.`,
 
         icon: sound,
         icon2: insta,
@@ -334,16 +299,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "PurpleWaves",
         photo: Purplewaves,
-        description: `O mineiro Victor Mota é o nome por trás do projeto Purplewaves, criado em 2018, após
-        vários anos frequentando e estudando festivais pelo Brasil. Inicialmente baseado no Fullon
-        clássico europeu do final dos anos 2000, o projeto agora apresenta uma sonoridade
-        moderna, mantendo uma identidade dançante, em uma comunhão entre melodia e a
-        ambientação noturna, focado em variações de bassline, com a promessa de manter a
-        energia da pista do começo ao fim das apresentações.
-
-        O projeto chegou em Curitiba em 2022 e se apresentou em diversos eventos locais
-        importantes, como o Festival Ananta, Dark City, Yin Yang Festival, Psygroove e Churrasco de
-        Cogumelos.`,
+        description: `Victor Mota from Minas Gerais is the name behind the Purplewaves project, created in 2018, after several years attending and studying festivals throughout Brazil. Initially based on the classic European Fullon of the late 2000s, the project now presents a modern sound, maintaining a danceable identity, in a communion between melody and the nocturnal atmosphere, focused on variations of bassline, with the promise of maintaining the energy of the dance floor from the beginning to the end of the presentations. The project arrived in Curitiba/PR in 2022 and has performed at several important local events, such as the Ananta Festival, Dark City, Yin Yang Festival, Psygroove, and Mushroom Barbecue.`,
 
         icon: sound,
         icon2: insta,
@@ -356,15 +312,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Rasztec",
         photo: Rasztec,
-        description: `O passado já foi,
-         o futuro a morte trará,
-        o presente é, sempre foi e será
-        a dádiva de ser e estar, para história criar.
-
-        Libertando-se pela arte, em um ritual tecnológico e tribal, para lembrar que tudo é parte de um plano cósmico intrinsecamente artístico, busquemos nosso equilíbrio como um só ser.
-        'A graça de ser uno com a inteligência não requer esforço e sim amor."
-
-                Cultura através da arte!!`,
+        description: ` The past is gone, the future will bring death, the present is, always has been, and will be the gift of being and existing, to create history. Freeing oneself through art, in a technological and tribal ritual, to remember that everything is part of an intrinsically artistic cosmic plan, let us seek our balance as one being. "The grace of being one with intelligence requires no effort, but love." Culture through art!!`,
 
         icon: sound,
         icon2: insta,
@@ -376,7 +324,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Reflexo Ativo",
         photo: ReflextoAtivo,
-        description: `Ricardo Nascimento é o nome por trás do Reflexo Ativo. O projeto é uma forma livre de expressão, com faixas que trazem elementos da natureza, timbres industriais e tecnológicos, variando de 90 a 160 BPMs. Busca sempre apresentar novas perspectivas sonoras/espaciais com referências da cultura latino-americana.`,
+        description: `Ricardo Nascimento is the name behind Reflexo Ativo. The project is a free form of expression, with tracks that bring elements of nature, industrial and technological timbres, ranging from 90 to 160 BPMs. Always seeks to present new sonic/spatial perspectives with references from Latin American culture.`,
 
         icon: sound,
         icon2: insta,
@@ -387,9 +335,18 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Satanakia",
         photo: Satanakia,
-        description: `Alexandre de Mattos (aka Bizarro) nasceu em São Paulo e está em contato com a música eletrônica desde o início da década de 90. Frequentava festas da cena clubber da época e mais tarde passou a também frequentar alguns festivais, o que o fez desejar se tornar um produtor. 
-        Com sua base musical oriunda do violão e da guitarra - instrumentos que tocava na adolescência - e das festas e festivais que havia frequentado, começou suas primeiras experiências em produção de música eletrônica em 2002, também tornando-se DJ.
-        Mais tarde, em 2012, foi ao seu primeiro festival de psytrance e decidiu por também fazer parte desse universo.`,
+        description: `Alexandre de Mattos (aka Bizarro) was born in São Paulo and has been immersed in electronic music since the early 1990s. He attended clubbing events of the era and later began going to festivals, which sparked his desire to become a music producer.
+
+With a musical foundation rooted in playing the acoustic guitar and electric guitar during his teenage years, along with the influence of the parties and festivals he had experienced, he embarked on his first experiments in electronic music production in 2002, also becoming a DJ.
+
+Later, in 2012, he attended his first psytrance festival and decided to become a part of that universe as well.
+
+
+
+
+
+
+`,
 
         icon: sound,
         icon2: insta,
@@ -400,8 +357,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Status Quantum",
         photo: StatusQuantum,
-        description: `Status Quantum é a transcrição psicodélica dos pensamentos de Gabriel Medeiros. Vivenciando por muitos anos a cultura musical da cidade de São Paulo através de eventos de dub e hip-hop, inicia sua jornada na produção autoral após se mudar para o interior do estado. 
-        Com seu primeiro lançamento em 2020, busca traduzir suas diversas influências na linguagem da música de pista, para que os ouvintes alcancem experiências revigorantes e únicas.`,
+        description: `Status Quantum is the psychedelic transcription of Gabriel Medeiros' thoughts. Experiencing the musical culture of the city of São Paulo/SP for many years through dub and hip-hop events, he begins his journey in original production after moving to the interior of the state. With his first release in 2020, he seeks to translate his diverse influences into the language of dance music, so that listeners can achieve invigorating and unique experiences.`,
 
         icon: sound,
         icon2: insta,
@@ -413,9 +369,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Stranger Swamp",
         photo: StrangerSwamp,
-        description: `Stranger Swamp é o projeto paralelo de dark psy/forest de Lucas Magalhães, também conhecido como Inverted World.
-        Com a proposta de mostrar um lado mais obscuro, acelerado, frenético e psicodélico de sua mente, o projeto apresenta produções com texturas densas, atmosferas profundas e um design de som futurista, explorando os limites de sua mente e criatividade. 
-        A jornada para criar este projeto começou quando Lucas sentiu o chamado para explorar novas sonoridades. Desde então, dedica-se incansavelmente à estética e identidade sonora do Stranger Swamp, buscando transmitir sentimento e qualidade em cada batida.`,
+        description: `Stranger Swamp is the dark psy/forest side project of Lucas Magalhães, also known as Inverted World. With the proposal of showing a darker, accelerated, frenetic, and psychedelic side of his mind, the project presents productions with dense textures, deep atmospheres, and a futuristic sound design, exploring the limits of his mind and creativity. The journey to create this project began when Lucas felt the call to explore new sounds. Since then, he has tirelessly dedicated himself to the aesthetics and sonic identity of Stranger Swamp, seeking to convey feeling and quality in every beat.`,
 
         icon: sound,
         icon2: insta,
@@ -426,10 +380,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Tarumã",
         photo: Taruma,
-        description: `Thaynara Moreira é o nome por trás do projeto Tarumã. DJ e produtora musical de São Paulo que tem se destacado no cenário do Hibpm. Começou como Dj set há 6 anos e há 3 anos, mergulhou na produção musical e agora possui seu próprio live. 
-            Thaynara é uma das poucas mulheres no mundo que produzem Hitech, e o BPM de suas músicas varia entre 170 e 190, entregando ao público uma experiência sonora dançante e energética. 
-
-            Com seu trabalho, Thaynara não busca apenas conquistar as pistas de dança, mas também inspirar outras mulheres a ocuparem seu espaço na música eletrônica e a explorarem sua criatividade nesse universo.`,
+        description: `Thaynara Moreira is the name behind the Tarumã project. DJ and music producer from São Paulo/SP who has stood out in the Hibpm scene. She started as a Dj set 6 years ago and 3 years ago, she dived into music production and now has her own live. Thaynara is one of the few women in the world who produce Hitech, and the BPM of her music varies between 170 and 190, giving the audience a dancing and energetic sound experience. With her work, Thaynara not only seeks to conquer dance floors but also to inspire other women to occupy their space in electronic music and explore their creativity in this universe.`,
 
         icon: sound,
         icon2: insta,
@@ -441,12 +392,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Torstol",
         photo: Torstol,
-        description: `Torstol é um projeto de Forest Psy, criado por João Paulo Rodrigues, nascido no interior de
-            Minas Gerais, Brasil. Sua proposta é construir uma atmosfera introspectiva, que permita o
-            imaginário caminhar livre por suas fantasias. As músicas variam entre 140 e 160 BPM's,
-            com histórias que se criam à luz de profundos sons de uma floresta encantada, dando vida
-            à ambiências místicas por meio de texturas pantanosas, leads, timbres orgânicos, uma
-            bateria recheada de tambores e fortes linhas de baixo que fazem dançar.`,
+        description: `Torstol is a Forest Psy project, created by João Paulo Rodrigues, born in the interior of Minas Gerais, Brazil. His proposal is to build an introspective atmosphere that allows the imaginary to wander freely through its fantasies. The songs vary between 140 and 160 BPM's, with stories that are created in the light of deep sounds of an enchanted forest, giving life to mystical ambiances through swampy textures, leads, organic timbres, a drum set full of drums, and strong bass lines that make you dance.`,
 
         icon: sound,
         icon2: insta,
@@ -460,7 +406,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Cosmic Vandal",
         photo: Tusta,
-        description: `Nascido no interior de São Paulo, na cidade de Campinas, Gustavo, a mente por trás do projeto Cosmic Vandal – e também do projeto Voguz –, formou-se em produção de música eletrônica na Universidade Anhembi Morumbi, em São Paulo, e no SAE Institute, em Barcelona. Cosmic Vandal explora a psicodelia sonora com influências que transitam pelas camadas mais obscuras da música psicodélica.`,
+        description: `Born in the interior of São Paulo, in the city of Campinas, Gustavo, the mind behind the Cosmic Vandal project - and also the Voguz project -, graduated in electronic music production from Anhembi Morumbi University, in São Paulo, and the SAE Institute, in Barcelona. Cosmic Vandal explores sonic psychedelia with influences that transit through the darkest layers of psychedelic music.`,
 
         icon: sound,
         icon2: insta,
@@ -471,8 +417,7 @@ Darkon Records, Trancedencya Records e Simbiose Records.
     {
         name: "Wawii",
         photo: Wawii,
-        description: `Wawii é o projeto autoral do DJ e produtor brasileiro Allan Araújo.
-        Focado no som noturno, transitando entre as texturas do Darkpsy e Forest, Wawii é a materialização de anos de estrada na cena psicodélica.`,
+        description: ` Wawii is the original project of Brazilian DJ and producer Allan Araújo. Focused on the nocturnal sound, moving between the textures of Darkpsy and Forest, Wawii is the materialization of years on the road in the psychedelic scene.`,
 
         icon: sound,
         icon2: insta,
