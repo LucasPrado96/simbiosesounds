@@ -90,6 +90,17 @@ export const Artists = [
     },
 
     {
+        name: "Cosmic Vandal",
+        photo: Tusta,
+        description: `Born in the interior of São Paulo, in the city of Campinas, Gustavo, the mind behind the Cosmic Vandal project - and also the Voguz project -, graduated in electronic music production from Anhembi Morumbi University, in São Paulo, and the SAE Institute, in Barcelona. Cosmic Vandal explores sonic psychedelia with influences that transit through the darkest layers of psychedelic music.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/tustera`,
+        link2: `https://www.instagram.com/cosmic_vandal/`,
+    },
+
+    {
         name: "Dalikaos",
         photo: Dalikaos,
         description: `My mission is to take the dance floor on a journey full of chaos and energy, making use of powerful bass, hypnotizing sounds, and dark atmospheres.`,
@@ -403,16 +414,7 @@ Later, in 2012, he attended his first psytrance festival and decided to become a
 
     },
 
-    {
-        name: "Cosmic Vandal",
-        photo: Tusta,
-        description: `Born in the interior of São Paulo, in the city of Campinas, Gustavo, the mind behind the Cosmic Vandal project - and also the Voguz project -, graduated in electronic music production from Anhembi Morumbi University, in São Paulo, and the SAE Institute, in Barcelona. Cosmic Vandal explores sonic psychedelia with influences that transit through the darkest layers of psychedelic music.`,
-
-        icon: sound,
-        icon2: insta,
-        link: `https://soundcloud.com/tustera`,
-        link2: `https://www.instagram.com/cosmic_vandal/`,
-    },
+    
 
     {
         name: "Wawii",
