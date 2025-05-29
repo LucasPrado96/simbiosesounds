@@ -43,7 +43,7 @@ const [loading, setLoading] = useState(true)
             <Cast>Releases</Cast>
             <Main>
         
-            {loading ? <p>Carregando Releases...</p>  : 
+            {loading ? <p>Loading Releases...</p>  : 
             
             albums && albums.map((track, index) => (
                 <ReleaseContent key={index}>
