@@ -9,9 +9,11 @@ import Facury from '../../assets/FotosCast/Facury.jpg'
 import Grozzny from '../../assets/FotosCast/Grozzny.jpg'
 import HinkyPunk from '../../assets/FotosCast/HinkyPunk.jpg'
 import Ikenaga from '../../assets/FotosCast/Ikenaga.jpg'
+import Indra from '../../assets/FotosCast/Indra.jpg'
 import Ikeruma from '../../assets/FotosCast/Ikeruma.jpg'
 import Impertinent from '../../assets/FotosCast/Impertinent.jpg'
 import Kaapora from '../../assets/FotosCast/Kaapora1.jpeg'
+import Kattharzis from '../../assets/FotosCast/kattharzis.jpg'
 import Kataklyzma from '../../assets/FotosCast/Kataklyzma.jpeg'
 import Kedai from '../../assets/FotosCast/Kedai.jpg'
 import Krypta from '../../assets/FotosCast/Krypta.jpg'
@@ -30,8 +32,9 @@ import StrangerSwamp from '../../assets/FotosCast/StrangerSwamp.png'
 import Taruma from '../../assets/FotosCast/Taruma.jpg'
 import Torstol from '../../assets/FotosCast/Torstol.jpg'
 import Tusta from '../../assets/FotosCast/Tusta.jpeg'
+import Tyska from '../../assets/FotosCast/tyska.png'
 import Wawii from '../../assets/FotosCast/Wawii.jpeg'
-
+import Skygirl from '../../assets/FotosCast/skyGirl.jpg'
 import insta from '../../assets/instabranco.png'
 import sound from '../../assets/soundcloud.png'
 
@@ -161,6 +164,21 @@ export const Artists = [
 
     },
 
+       {
+        name: "Indra",
+        photo: Indra,
+        description: `Indra Ruiz is DJ and music producer from southern Minas Gerais, who has been living and breathing the electronic scene for over 15 years. With infinite thirst for discovering sounds that arouse new sensations, she has moved by several sounds and is now found in the universe of night sounds.
+        Walking between aspects such as progressive Dark, Psy Techno and Forest, his current set has an obscure but absolutely dancing vibe that represents his versatility and genuine passion for music.
+        `,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/indrhamusic`,
+        link2: `https://www.instagram.com/indra___br/`,
+
+    },
+
+  
+
     {
         name: "Ikenaga",
         photo: Ikenaga,
@@ -184,11 +202,22 @@ export const Artists = [
     {
         name: "Impertinent",
         photo: Impertinent,
-        description: `t brings a deep and introspective sonic experience through experimental notes. With characteristic waves, fast beats, and "dirty" frequencies, his music takes us on an intense journey. Impertinent was first introduced to electronic music by his mother, and after a while, his passion led him to discover how musicians create their magic. In 2010, he discovered Ableton, and thus the project was born. He describes his music as free-style and sees music as an art form, rather than being bound by a set of rules. His sound is dramatic, funny, and emotionally explosive, which can be described with just one word: IMPERTINENT.`,
+        description: `Impertinent brings a deep and introspective sonic experience through experimental notes. With characteristic waves, fast beats, and "dirty" frequencies, his music takes us on an intense journey. Impertinent was first introduced to electronic music by his mother, and after a while, his passion led him to discover how musicians create their magic. In 2010, he discovered Ableton, and thus the project was born. He describes his music as free-style and sees music as an art form, rather than being bound by a set of rules. His sound is dramatic, funny, and emotionally explosive, which can be described with just one word: IMPERTINENT.`,
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/impertinente-25`,
         link2: `https://www.instagram.com/impertinent_hagy/`,
+    },
+
+     {
+        name: "Kattharzis ",
+        photo: Kattharzis,
+        description: `William Vinicius is the creative name behind the Kattharzis project. Musician and multi -instrumentalist for over 10 years, Will started his walk in electronic music in 2015, when he went to techno and Psytrance events. In 2018, he joined the Nagual Project DJ casting and, in 2019, began his music production studies.
+        Today, he is DJ, producer, collector and lover of all the slopes of psychedelia and electronic music, as well as being one of the creators of the Freak block, revolutionary movement of the Ceará night scene. With strong influences from psychedelic rock and complex musical expressions, the project takes the listener for an intriguing and deep journey through the frantic rhythms of Forest and Darkpsy.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/kattharzis_live`,
+        link2: `https://www.instagram.com/will.kattharzis/`,
     },
 
     {
@@ -377,6 +406,19 @@ Later, in 2012, he attended his first psytrance festival and decided to become a
 
     },
 
+     {
+        name: "Sky Girl",
+        photo: Skygirl,
+        description: `Sky Girl is the DJ Set project prepared by Raphaela Tavares, which creates subtle progression through Progdardk with influences from Techno and Psytech, creating a dancing and introspective experience on the track.
+`,
+
+        icon: sound,
+        icon2: insta,
+        link: ``,
+        link2: `https://www.instagram.com/tavaresraphaela/`,
+
+    },
+
     {
         name: "Stranger Swamp",
         photo: StrangerSwamp,
@@ -409,6 +451,23 @@ Later, in 2012, he attended his first psytrance festival and decided to become a
         icon2: insta,
         link: `https://soundcloud.com/esktorstol`,
         link2: `https://www.instagram.com/esktorstol/`,
+
+
+
+    },
+
+        {
+        name: "Tyska",
+        photo: Tyska,
+        description: `With a consolidated trajectory in the music scene since 2018, Nanda Chitta - DJ and cultural producer of the interior of Minas Gerais - takes a new step in his career. Recognized for her remarkable presence in hip -hop culture and surrounding sets that travel through funk, Trap, Drum and Bass, Dubstep and other electronic genres, she now presents her parallel project: Tyska.
+
+Tyska is an immersion in the universe of Hitech and Hi -BPM, bringing a renewed sound identity and intense experiences on the track. With this proposal, Nanda explores the fastest and more psychedelic aspects of electronic music, seeking to impact the audience with bold and innovative sets.
+Tyska promises to be a milestone in the underground scene, revealing all the versatility and the power of a DJ who is not afraid to reinvent herself. Prepare for a lot of energy and acceleration.`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/fernanda-senna-3`,
+        link2: `https://www.instagram.com/nandachitta_/`,
 
 
 
