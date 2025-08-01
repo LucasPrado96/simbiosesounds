@@ -1,7 +1,7 @@
 import { Container, Content,  } from './styles'
 
 import { HeaderSite } from '../../Components/Header';
-import Logo from '../../assets/logo.png'
+import Logo from '../../assets/caveira-nova.png'
 import {FooterSite} from '../../Components/Footer'
 
 

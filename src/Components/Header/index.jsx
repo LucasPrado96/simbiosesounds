@@ -1,5 +1,5 @@
 import { Container, Header, A, HeaderResponsivo, MenuIconStyled, OptionsMenu, AResponsive} from './styles'
-import Logo from '../../assets/logo.png'
+import Logo from '../../assets/caveira-nova.png'
 import Logo2 from '../../assets/logo-letra.png'
 import Logo3 from '../../assets/simbiosebranco.png'
 import { useState } from 'react'
