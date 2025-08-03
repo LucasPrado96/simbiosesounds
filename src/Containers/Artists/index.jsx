@@ -39,7 +39,7 @@ export function ArtistsCast() {
                     {Artists && Artists.map((artist, index) => (
                            <ArtistContent key={index} onClick={() => openModal(artist)}>
                               <div className='imgWrapper'>
-                                   <Img src={artist.photo} alt={artist.photo} style={{ objectFit: 'fill' }} />
+                                   <Img src={artist.photo} alt={artist.photo} style={{ objectFit: 'fill' }} loading='lazy' />
                                    <div className='overlay'>
                                         
                                    </div>

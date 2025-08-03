@@ -1,5 +1,5 @@
 import Styled, { css } from 'styled-components'
-import Bg from '../../assets/capaNova.jpg'
+import Bg from '../../assets/capaNova.png'
 import { fadeOut, fadeIn } from './animation'
 
 
@@ -71,6 +71,7 @@ background-image: url('${Bg}');
 height: 330px;
 width: 100%;
 background-size: cover;
+background-position: center ;
 
 
 `
