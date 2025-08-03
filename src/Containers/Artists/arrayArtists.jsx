@@ -13,7 +13,7 @@ import Indra from '../../assets/FotosCast/Indra.jpg'
 import Ikeruma from '../../assets/FotosCast/Ikeruma.jpg'
 import Impertinent from '../../assets/FotosCast/Impertinent.jpg'
 import Kaapora from '../../assets/FotosCast/Kaapora1.jpeg'
-import Kattharzis from '../../assets/FotosCast/kattharzis.jpg'
+import Kattharzis from '../../assets/FotosCast/Kattharzis.avif'
 import Kataklyzma from '../../assets/FotosCast/Kataklyzma.jpeg'
 import Kedai from '../../assets/FotosCast/Kedai.jpg'
 import Krypta from '../../assets/FotosCast/Krypta.jpg'
@@ -210,7 +210,7 @@ export const Artists = [
     },
 
      {
-        name: "Kattharzis ",
+        name: "Kattharzis",
         photo: Kattharzis,
         description: `William Vinicius is the creative name behind the Kattharzis project. Musician and multi -instrumentalist for over 10 years, Will started his walk in electronic music in 2015, when he went to techno and Psytrance events. In 2018, he joined the Nagual Project DJ casting and, in 2019, began his music production studies.
         Today, he is DJ, producer, collector and lover of all the slopes of psychedelia and electronic music, as well as being one of the creators of the Freak block, revolutionary movement of the Ceará night scene. With strong influences from psychedelic rock and complex musical expressions, the project takes the listener for an intriguing and deep journey through the frantic rhythms of Forest and Darkpsy.`,
