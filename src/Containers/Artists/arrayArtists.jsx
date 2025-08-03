@@ -34,7 +34,7 @@ import Torstol from '../../assets/FotosCast/Torstol.jpg'
 import Tusta from '../../assets/FotosCast/Tusta.jpeg'
 import Tyska from '../../assets/FotosCast/Tyska.png'
 import Wawii from '../../assets/FotosCast/Wawii.jpeg'
-import Skygirl from '../../assets/FotosCast/SkyGirl.avif'
+import Skygirl from '../../assets/FotosCast/Skygirl.avif'
 import insta from '../../assets/instabranco.png'
 import sound from '../../assets/soundcloud.png'
 
