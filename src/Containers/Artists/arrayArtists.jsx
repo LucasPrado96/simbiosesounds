@@ -1,25 +1,32 @@
 import AlienTime from '../../assets/FotosCast/AlienTime.avif'
+import Alex from '../../assets/FotosCast/Alex.avif'
 import BlackMandala from '../../assets/FotosCast/BlackMandala.avif'
 import Cambiatt from '../../assets/FotosCast/Cambiatt.avif'
 import Corvus from '../../assets/FotosCast/Corvus.avif'
 import Dalikaos from '../../assets/FotosCast/Dalikaos.avif'
 import darkside from '../../assets/FotosCast/darkside.avif'
+import Erudaz from '../../assets/FotosCast/Erudaz.avif'
 import Evilporks from '../../assets/FotosCast/Evilporks.avif'
 import Facury from '../../assets/FotosCast/Facury.avif'
 import Grozzny from '../../assets/FotosCast/Grozzny.avif'
+import Hiena from '../../assets/FotosCast/Hiena.avif'
 import HinkyPunk from '../../assets/FotosCast/HinkyPunk.avif'
 import Ikenaga from '../../assets/FotosCast/Ikenaga.avif'
 import Indra from '../../assets/FotosCast/Indra.avif'
+import Jurema from '../../assets/FotosCast/Jurema.avif'
 import Ikeruma from '../../assets/FotosCast/Ikeruma.avif'
 import Impertinent from '../../assets/FotosCast/Impertinent.avif'
 import Kaapora from '../../assets/FotosCast/Kaapora1.avif'
 import Kattharzis from '../../assets/FotosCast/Kattharzis.avif'
+import Kalangu from '../../assets/FotosCast/Kalangu.avif'
 import Kataklyzma from '../../assets/FotosCast/Kataklyzma.avif'
 import Kedai from '../../assets/FotosCast/Kedai.avif'
 import Krypta from '../../assets/FotosCast/Krypta.avif'
 import Leonomalia from '../../assets/FotosCast/Leonomalia.avif'
 import MadNoise from '../../assets/FotosCast/MadNoise.avif'
 import Mariela from '../../assets/FotosCast/Mariela.avif'
+import Morest from '../../assets/FotosCast/Morest.avif'
+import Morkum from '../../assets/FotosCast/Morkum.avif'
 import Mulungu from '../../assets/FotosCast/Mulungu.avif'
 import Niyatima from '../../assets/FotosCast/Niyatima.avif'
 import OM237 from '../../assets/FotosCast/OM237.avif'
@@ -50,7 +57,17 @@ export const Artists = [
         icon: sound,
         icon2: insta,
         link: `https://soundcloud.com/alientime`,
-        link2: `https://www.instagram.com/alientimesounds/?hl=pt-br`,
+        link2: `https://www.instagram.com/alientimesounds/`,
+    },
+
+      {
+        name: "Alex",
+        photo: Alex,
+        description: `Born in Joinville-SC, Alexandre Neumann, known as ALEX, has always been an enthusiast of electronic music. He found in psytrance a form of expression through aggressive and nocturnal lines, creating a unique sonic characteristic for his project.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/alexandre-neumann-de-lima`,
+        link2: `https://www.instagram.com/a7ex.n/`,
     },
 
     {
@@ -123,6 +140,16 @@ export const Artists = [
         link2: `https://www.instagram.com/darksidefmslive/`,
     },
 
+        {
+        name: "Erudaz",
+        photo: Erudaz,
+        description: `Erudaz is a Darkpsy/Forest project created by Bruno Viana in late 2020. With roots in classical music, the project fuses melodic structures with dark atmospheres, weird textures, and gooey timbres. It also carries influences from metal and its subgenres, incorporating weight, tension, and intensity into the construction of its tracks. Inspired by the complexity of Darkpsy and the swing of Forest, Erudaz delivers intense, mental, and immersive experiences—a deep psychedelia guided by the contrast between aggression and harmonic detail.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/erudaz/`,
+        link2: `https://www.instagram.com/erudazlive/`,
+    },
+
     {
         name: "Evilporks",
         photo: Evilporks,
@@ -154,6 +181,17 @@ export const Artists = [
     },
 
     {
+        name: "Hiena",
+        photo: Hiena,
+        description: `Hiena is the DarkPsy project conceived by Nathan Sousa, originally from Barbacena, MG. It was created with a clear mission: To immerse the audience in an introspective journey through its sound and references. The goal is to fully envelop listeners in this experience, seeking to reach beyond the obvious and penetrate into the core of the subliminal. Every beat, kick, and bassline is carefully chosen to create a hypnotic and transformative effect, combining characteristic elements of Forest and Darkpsy into an authentic fusion. By diving into the depths of the unknown, Hiena reveals hidden aspects of the human psyche, inviting a journey of self-discovery. Music becomes the medium through which internal mysteries and long-forgotten emotions are unveiled. The name "Hiena" (Hyena) reflects the entire essence of the project and its creator: just like the animal it represents, the music is marked by cunning and the ability to uncover unique and enigmatic paths, captivating the audience's attention from the very first moment.
+ `,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/nathan-sousa-5/`,
+        link2: `https://www.instagram.com/hiena.live/`,
+    },
+
+    {
         name: "Hinky Punk",
         photo: HinkyPunk,
         description: `Stories tell that the Hinky Punk is a being that hides and lurks in remote regions. During the night, its lantern confuses and attracts weary wanderers, who think that the light is their destination. When they find themselves completely off their path, lost in the forest to the great satisfaction of the Hinky Punk.`,
@@ -174,6 +212,19 @@ export const Artists = [
         icon2: insta,
         link: `https://soundcloud.com/indrhamusic`,
         link2: `https://www.instagram.com/indra___br/`,
+
+    },
+
+    {
+        name: "Jurema",
+        photo: Jurema,
+        description: ` Isabela Di Bianco has been a DJ for over a decade and develops her artistic project under the name Jurema. Her passion for music began early, but it was during her teenage years, when she discovered DJing, that she found her true path. She started her career in 2012 playing Night, and over time, she dove deeper and deeper into the High BPM scene, where she discovered her true passion.
+        Today, she describes her sound as Dark Psychedelic and does not limit herself to a single musical style. She enjoys playing the more classic side of DarkPsy, with slightly lower BPMs, and also blending different sounds into her sets, while always maintaining a technological and organic texture with a strong, distinctive bassline. Each performance is a little box of surprises, and every story told through her sets is unique.
+        Jurema develops the Trance de Calçada project in Ribeirão Preto, São Paulo — her hometown — which aims to make psytrance more accessible and democratized in her region. She also work `,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/djurema`,
+        link2: `https://www.instagram.com/djjurema/`,
 
     },
 
@@ -245,6 +296,22 @@ export const Artists = [
     },
 
     {
+        name: "Kalangu",
+        photo: Kalangu,
+        description: `Kalangu is the latest project by Daniel Jonatas, exploring nocturnal music in its most hypnotic and psychedelic form.
+        Daniel Jônatas is a producer originally from Formosa-GO, Brazil. His passion for music has been evident since the beginning of his life. A multi-instrumentalist, his influences are rooted in psychedelic music, heavy metal, dub, reggae, hip hop, jazz, soul, and a world of diverse genres. Kalangu is the epitome of an obsession with art and a love for expression.
+`,
+
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/kalangu_live/`,
+        link2: `https://www.instagram.com/__kalangu__/`,
+
+
+    },
+    
+
+    {
         name: "Kedai",
         photo: Kedai,
         description: ` Caio Ikeda a.k.a. Kedai is a multi-instrumentalist artist who combines organic and electronic elements in his music, resulting in a unique sound. One of the most striking characteristics of his music is the dense atmosphere he manages to build. Using a combination of sound effects and atmospheric sounds to create immersive and hypnotic soundscapes. When immersed in his compositions, it is impossible not to be carried away by his continuous and hypnotic rhythms. Creating rhythmic sequences that involve you in a psychedelic journey, where each beat and each rhythm transport you to a state of musical trance.
@@ -298,6 +365,29 @@ export const Artists = [
         icon2: insta,
         link: `soundcloud.com/mariel4`,
         link2: `instagram.com/marielaa.wav`,
+    },
+
+    {
+        name: "Morest",
+        photo: Morest,
+        description: `Morest is an electronic music live act created by producer Thyago Novaes. Active in the scene since 2006, he has had several projects, covering almost all styles. Currently, he works in the forest genre, where he showcases all his experience acquired over the years.
+        As humans, we go through various situations in life that leave marks, some good, others bad. However, there is a lot of information to be processed, and at many moments, we need something to guide us through this whirlwind of thoughts.
+        Morest is the portal, the passage, the path, the guide that takes us on an inner journey. A unique trip through the mind that makes us reflect on everything that surrounds us.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/morestmusic`,
+        link2: `https://www.instagram.com/thyagomorest/`,
+    },
+
+      {
+        name: "Morkum",
+        photo: Morkum,
+        description: `The musical project conceived by Leon Quartim hybridizes organic and technological sounds in a symbiotic act.
+        His style merges greasy basslines, complex drums, deep ambiences and mesmerizing melodies that make up a detailed arrangement.`,
+        icon: sound,
+        icon2: insta,
+        link: `https://soundcloud.com/morkum`,
+        link2: `https://www.instagram.com/morkum.music/`,
     },
 
 
