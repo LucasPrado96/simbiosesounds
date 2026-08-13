@@ -15,7 +15,7 @@ export function FooterSite() {
 
         <Container>
             <Footer>
-               <p>SIMBIOSE ©</p>
+              
             </Footer>
 
         
