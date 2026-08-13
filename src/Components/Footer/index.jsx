@@ -15,7 +15,7 @@ export function FooterSite() {
 
         <Container>
             <Footer>
-               <p>Desenvolvido por Lucas Prado (Alien Time) ©</p>
+               <p>SIMBIOSE ©</p>
             </Footer>
 
         
