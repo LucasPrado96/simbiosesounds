@@ -2,7 +2,6 @@ import AlienTime from '../../assets/FotosCast/AlienTime.avif'
 import Alex from '../../assets/FotosCast/Alex.avif'
 import BlackMandala from '../../assets/FotosCast/BlackMandala.avif'
 import Cambiatt from '../../assets/FotosCast/Cambiatt.avif'
-import Corvus from '../../assets/FotosCast/Corvus.avif'
 import Dalikaos from '../../assets/FotosCast/Dalikaos.avif'
 import darkside from '../../assets/FotosCast/darkside.avif'
 import Erudaz from '../../assets/FotosCast/Erudaz.avif'
@@ -21,18 +20,13 @@ import Kattharzis from '../../assets/FotosCast/Kattharzis.avif'
 import Kalangu from '../../assets/FotosCast/Kalangu.avif'
 import Kataklyzma from '../../assets/FotosCast/Kataklyzma.avif'
 import Kedai from '../../assets/FotosCast/Kedai.avif'
-import Krypta from '../../assets/FotosCast/Krypta.avif'
-import Leonomalia from '../../assets/FotosCast/Leonomalia.avif'
 import MadNoise from '../../assets/FotosCast/MadNoise.avif'
 import Mariela from '../../assets/FotosCast/Mariela.avif'
 import Morest from '../../assets/FotosCast/Morest.avif'
 import Morkum from '../../assets/FotosCast/Morkum.avif'
-import Mulungu from '../../assets/FotosCast/Mulungu.avif'
 import Niyatima from '../../assets/FotosCast/Niyatima.avif'
 import OM237 from '../../assets/FotosCast/OM237.avif'
-import Purplewaves from '../../assets/FotosCast/Purplewaves.avif'
 import Rasztec from '../../assets/FotosCast/Rasztec.avif'
-import ReflextoAtivo from '../../assets/FotosCast/ReflextoAtivo.avif'
 import Satanakia from '../../assets/FotosCast/Satanakia.avif'
 import StatusQuantum from '../../assets/FotosCast/StatusQuantum.avif'
 import StrangerSwamp from '../../assets/FotosCast/StrangerSwamp.avif'
@@ -94,20 +88,7 @@ export const Artists = [
         link2: `https://www.instagram.com/flaviocambiati0/`,
     },
 
-    {
-        name: "Corvus",
-        photo: Corvus,
-        description: 
-        `
-        "Corvus" is a musical project created by Eduardo Lira, which delves deeply into unprecedented sensations, combining unsettling atmospheres, dark melodies, and unique syntheses inspired by the universe. Eduardo discovered psytrance in 2010 and quickly fell in love with High BPM, exploring the nuances of this style. In 2019, he started the "Oryezurk" project, which served as the basis for his sound experiments. In 2023, the "Corvus" project was born, with the aim of transforming his creative madness into music, delivering intense and memorable sound experiences. Surfing on sound waves and breathing insane frequencies, Corvus explores the limits of sound, transforming ideas into experiences that connect the universe to creative chaos.
-          `,
-
-        icon: sound,
-        icon2: insta,
-        link: `https://soundcloud.com/corvuspsy`,
-        link2: `https://www.instagram.com/corvuspsy/`,
-        
-    },
+    
 
     {
         name: "Cosmic Vandal",
@@ -324,27 +305,9 @@ export const Artists = [
 
     },
 
-    {
-        name: "Krypta",
-        photo: Krypta,
-        description: `Krypta seeks to create intense and profound sounds, with complex basslines and lysergic atmospheres that involve the listener. The project is dedicated to exploring new possibilities within psytrance, always seeking innovation and sonic diversity. With tracks that balance technique and creativity, the proposal is to provide a unique and immersive experience, where music becomes a sonic journey that connects genuinely with those who listen to it.`,
 
-            icon: sound,
-            icon2: insta,
-            link: `https://soundcloud.com/kryptal`,
-            link2: `https://www.instagram.com/kryptahitech/`,
-    },
 
-    {
-        name: "Leonomalia",
-        photo: Leonomalia,
-        description: `Leonardo Gasparovic, native of Curitiba/PR, and son of musicians, has always been in contact with music alongside his father in shows throughout Brazil since he was 5 years old. His struggle and ordinary life undergo a drastic mutation when he comes into contact with the psychedelic world in 2013. LeonoMalia is the result of all the processes he went through, added to the world that he could feel and touch through ambiances that bring us the duty to interact with others, creating unpredictable scenarios. It has as its peculiarity to play the most intimate of its feelings and great ability to adapt to the place where it is inserted, without having a specific form, thus being what the mind seeks. It moves through the sweetest and darkest nuances that obscure music can offer. His main influences are, concrete music and experimental music like drones and dark ambient.`,
-
-            icon: sound,
-            icon2: insta,
-            link:  `https://soundcloud.com/l-o-gasparovic`,
-            link2: `https://www.instagram.com/leonom4lia_kataclysmic/`,
-    },
+  
 
     {
         name: "Mad Noise",
@@ -391,17 +354,7 @@ export const Artists = [
     },
 
 
-    {
-        name: "Mulungu",
-        photo: Mulungu,
-        description: `Bruno F. Silva, an independent music producer from São Paulo/SP, inspired by botanical landscapes and psychedelic music, is dedicated to the creation of timbres, psychedelic dimensions, and new sound experiences with his project, a hitech live. It proposes to the listener varied sensations, unpredictability, and originality, with creations that emerge from his own mind. With groovy bass, hypnotizing melodies, and striking leads, they create a cyber futuristic and botanical atmosphere, encouraging dance and contact with medicinal plants. Mulungu awakens the listener's curiosity about the healing power of plants. His metallic, organic, and technological soundscapes create a connection between machines, life, technologies, and sensations, with symbolic and striking arrangements. Teleporting the listener to deep forests and ancestral technological kingdoms.`,
-
-        icon: sound,
-        icon2: insta,
-        link: `https://soundcloud.com/mulungu-erythrina`,
-        link2: `https://www.instagram.com/mulungulive/`,
-
-    },
+  
 
     {
         name: "Niyatima",
@@ -426,18 +379,6 @@ export const Artists = [
 
     },
 
-    {
-        name: "PurpleWaves",
-        photo: Purplewaves,
-        description: `Victor Mota from Minas Gerais is the name behind the Purplewaves project, created in 2018, after several years attending and studying festivals throughout Brazil. Initially based on the classic European Fullon of the late 2000s, the project now presents a modern sound, maintaining a danceable identity, in a communion between melody and the nocturnal atmosphere, focused on variations of bassline, with the promise of maintaining the energy of the dance floor from the beginning to the end of the presentations. The project arrived in Curitiba/PR in 2022 and has performed at several important local events, such as the Ananta Festival, Dark City, Yin Yang Festival, Psygroove, and Mushroom Barbecue.`,
-
-        icon: sound,
-        icon2: insta,
-        link: `https://soundcloud.com/purplewavesdj`,
-        link2: `https://www.instagram.com/victor.purple/`,
-
-
-    },
 
     {
         name: "Rasztec",
@@ -451,16 +392,7 @@ export const Artists = [
 
     },
 
-    {
-        name: "Reflexo Ativo",
-        photo: ReflextoAtivo,
-        description: `Ricardo Nascimento is the name behind Reflexo Ativo. The project is a free form of expression, with tracks that bring elements of nature, industrial and technological timbres, ranging from 90 to 160 BPMs. Always seeks to present new sonic/spatial perspectives with references from Latin American culture.`,
-
-        icon: sound,
-        icon2: insta,
-        link:  `https://soundcloud.com/rasztec`,
-        link2: `https://www.instagram.com/rasztec/`,
-    },
+   
 
     {
         name: "Satanakia",
